@@ -1,0 +1,3524 @@
+[
+  {
+    "id": "01",
+    "name": "异戊巴比妥",
+    "smiles": "CCC1(CCC(C)C)C(=O)NC(=O)NC1=O",
+    "structure": "assets/structures/01.svg",
+    "category": "镇静催眠药与抗癫痫药 · 巴比妥类镇静催眠与抗癫痫药",
+    "aliases": [
+      "阿米妥",
+      "amobarbital"
+    ],
+    "chapter": "镇静催眠药与抗癫痫药",
+    "subcategory": "巴比妥类镇静催眠与抗癫痫药",
+    "sortOrder": 7,
+    "mechanism": "GABAA 受体巴比妥位点激动剂（延长氯通道开放时间）"
+  },
+  {
+    "id": "02",
+    "name": "咖啡因",
+    "smiles": "Cn1c(=O)c2c(ncn2C)n(C)c1=O",
+    "structure": "assets/structures/02.svg",
+    "category": "神经退行性疾病、麻醉与中枢兴奋药 · 黄嘌呤类中枢兴奋药",
+    "aliases": [
+      "咖啡碱",
+      "caffeine"
+    ],
+    "chapter": "神经退行性疾病、麻醉与中枢兴奋药",
+    "subcategory": "黄嘌呤类中枢兴奋药",
+    "sortOrder": 44,
+    "mechanism": "中枢腺苷 A1 / A2A 受体拮抗剂兼磷酸二酯酶抑制剂"
+  },
+  {
+    "id": "03",
+    "name": "肾上腺素",
+    "smiles": "CNC[C@H](O)c1ccc(O)c(O)c1",
+    "structure": "assets/structures/03.svg",
+    "category": "拟胆碱、抗胆碱与拟肾上腺素药 · α 与 β 肾上腺素受体激动剂",
+    "aliases": [
+      "副肾素",
+      "epinephrine",
+      "adrenaline"
+    ],
+    "chapter": "拟胆碱、抗胆碱与拟肾上腺素药",
+    "subcategory": "α 与 β 肾上腺素受体激动剂",
+    "sortOrder": 51,
+    "mechanism": "非选择性激动 α1 / α2 与 β1 / β2 肾上腺素受体"
+  },
+  {
+    "id": "04",
+    "name": "麻黄碱",
+    "smiles": "CN[C@@H](C)[C@H](O)c1ccccc1",
+    "structure": "assets/structures/04.svg",
+    "category": "拟胆碱、抗胆碱与拟肾上腺素药 · α 与 β 肾上腺素受体激动剂",
+    "aliases": [
+      "麻黄素",
+      "ephedrine"
+    ],
+    "chapter": "拟胆碱、抗胆碱与拟肾上腺素药",
+    "subcategory": "α 与 β 肾上腺素受体激动剂",
+    "sortOrder": 53,
+    "mechanism": "直接激动 α / β 受体并促进交感神经末梢释放去甲肾上腺素"
+  },
+  {
+    "id": "05",
+    "name": "普鲁卡因",
+    "smiles": "CCN(CC)CCOC(=O)c1ccc(N)cc1",
+    "structure": "assets/structures/05.svg",
+    "category": "神经退行性疾病、麻醉与中枢兴奋药 · 芳酸酯类局部麻醉药",
+    "aliases": [
+      "奴佛卡因",
+      "procaine"
+    ],
+    "chapter": "神经退行性疾病、麻醉与中枢兴奋药",
+    "subcategory": "芳酸酯类局部麻醉药",
+    "sortOrder": 41,
+    "mechanism": "阻滞神经细胞膜电压门控钠通道抑制动作电位传导"
+  },
+  {
+    "id": "06",
+    "name": "利多卡因",
+    "smiles": "CCN(CC)CC(=O)Nc1c(C)cccc1C",
+    "structure": "assets/structures/06.svg",
+    "category": "神经退行性疾病、麻醉与中枢兴奋药 · 酰胺类局部麻醉药",
+    "aliases": [
+      "赛罗卡因",
+      "lidocaine"
+    ],
+    "chapter": "神经退行性疾病、麻醉与中枢兴奋药",
+    "subcategory": "酰胺类局部麻醉药",
+    "sortOrder": 42,
+    "mechanism": "阻滞电压门控钠通道（兼 Ⅰb 类抗室性心律失常作用）"
+  },
+  {
+    "id": "07",
+    "name": "普萘洛尔",
+    "smiles": "CC(C)NCC(O)COc1cccc2ccccc12",
+    "structure": "assets/structures/07.svg",
+    "category": "抗高血压药 · β 肾上腺素受体阻滞剂",
+    "aliases": [
+      "心得安",
+      "propranolol"
+    ],
+    "chapter": "抗高血压药",
+    "subcategory": "β 肾上腺素受体阻滞剂",
+    "sortOrder": 73,
+    "mechanism": "非选择性竞争阻断 β1 与 β2 肾上腺素受体"
+  },
+  {
+    "id": "08",
+    "name": "硝酸甘油",
+    "smiles": "O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-]",
+    "structure": "assets/structures/08.svg",
+    "category": "抗心律失常与抗心绞痛药 · 硝酸酯类抗心绞痛药",
+    "aliases": [
+      "三硝酸甘油酯",
+      "nitroglycerin"
+    ],
+    "chapter": "抗心律失常与抗心绞痛药",
+    "subcategory": "硝酸酯类抗心绞痛药",
+    "sortOrder": 86,
+    "mechanism": "血管平滑肌内释放一氧化氮（NO）激活鸟苷酸环化酶升高 cGMP"
+  },
+  {
+    "id": "09",
+    "name": "阿司匹林",
+    "smiles": "CC(=O)Oc1ccccc1C(=O)O",
+    "structure": "assets/structures/09.svg",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 水杨酸类解热镇痛抗炎药",
+    "aliases": [
+      "乙酰水杨酸",
+      "aspirin"
+    ],
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "subcategory": "水杨酸类解热镇痛抗炎药",
+    "sortOrder": 111,
+    "mechanism": "不可逆乙酰化失活环氧合酶（COX-1 / COX-2）阻断前列腺素与 TXA2 合成"
+  },
+  {
+    "id": "10",
+    "name": "对乙酰氨基酚",
+    "smiles": "CC(=O)Nc1ccc(O)cc1",
+    "structure": "assets/structures/10.svg",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 苯胺类解热镇痛药",
+    "aliases": [
+      "扑热息痛",
+      "醋氨酚",
+      "acetaminophen",
+      "paracetamol"
+    ],
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "subcategory": "苯胺类解热镇痛药",
+    "sortOrder": 113,
+    "mechanism": "主要抑制中枢神经系统环氧合酶减少前列腺素合成发挥解热镇痛作用"
+  },
+  {
+    "id": "11",
+    "name": "布洛芬",
+    "smiles": "CC(C)Cc1ccc(C(C)C(=O)O)cc1",
+    "structure": "assets/structures/11.svg",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 芳基丙酸类非甾体抗炎药",
+    "aliases": [
+      "异丁苯丙酸",
+      "ibuprofen"
+    ],
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "subcategory": "芳基丙酸类非甾体抗炎药",
+    "sortOrder": 119,
+    "mechanism": "非选择性可逆抑制环氧合酶（COX-1 / COX-2）"
+  },
+  {
+    "id": "12",
+    "name": "环磷酰胺",
+    "smiles": "O=P1(N(CCCl)CCCl)NCCCO1",
+    "structure": "assets/structures/12.svg",
+    "category": "抗肿瘤药 · 氮芥类烷化剂",
+    "aliases": [
+      "CTX",
+      "癌得星",
+      "cyclophosphamide"
+    ],
+    "chapter": "抗肿瘤药",
+    "subcategory": "氮芥类烷化剂",
+    "sortOrder": 130,
+    "mechanism": "前药经肝 CYP450 活化释放磷酰胺氮芥使肿瘤细胞 DNA 链间交联"
+  },
+  {
+    "id": "13",
+    "name": "氟尿嘧啶",
+    "smiles": "O=c1[nH]cc(F)c(=O)[nH]1",
+    "structure": "assets/structures/13.svg",
+    "category": "抗肿瘤药 · 嘧啶类抗代谢药",
+    "aliases": [
+      "5-FU",
+      "5-氟尿嘧啶",
+      "fluorouracil"
+    ],
+    "chapter": "抗肿瘤药",
+    "subcategory": "嘧啶类抗代谢药",
+    "sortOrder": 136,
+    "mechanism": "体内转化为氟尿嘧啶脱氧核苷酸（FdUMP）不可逆抑制胸苷酸合成酶（TS）"
+  },
+  {
+    "id": "14",
+    "name": "苄青霉素（青霉素 G）",
+    "smiles": "CC1(C)S[C@@H]2[C@H](NC(=O)Cc3ccccc3)C(=O)N2[C@H]1C(=O)O",
+    "structure": "assets/structures/14.svg",
+    "category": "抗生素 · 青霉素类抗生素",
+    "aliases": [
+      "青霉素",
+      "青霉素G",
+      "盘尼西林",
+      "benzylpenicillin"
+    ],
+    "chapter": "抗生素",
+    "subcategory": "青霉素类抗生素",
+    "sortOrder": 147,
+    "mechanism": "结合细菌青霉素结合蛋白（PBPs）不可逆抑制细胞壁肽聚糖转肽交联"
+  },
+  {
+    "id": "15",
+    "name": "阿莫西林",
+    "smiles": "CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccc(O)cc3)C(=O)N2[C@H]1C(=O)O",
+    "structure": "assets/structures/15.svg",
+    "category": "抗生素 · 青霉素类抗生素",
+    "aliases": [
+      "羟氨苄青霉素",
+      "amoxicillin"
+    ],
+    "chapter": "抗生素",
+    "subcategory": "青霉素类抗生素",
+    "sortOrder": 151,
+    "mechanism": "结合细菌 PBPs 抑制细胞壁肽聚糖交联（广谱高口服生物利用度）"
+  },
+  {
+    "id": "16",
+    "name": "诺氟沙星",
+    "smiles": "CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)cc21",
+    "structure": "assets/structures/16.svg",
+    "category": "合成抗菌药 · 氟喹诺酮类抗菌药（第三、四代）",
+    "aliases": [
+      "氟哌酸",
+      "norfloxacin"
+    ],
+    "chapter": "合成抗菌药",
+    "subcategory": "氟喹诺酮类抗菌药（第三、四代）",
+    "sortOrder": 172,
+    "mechanism": "抑制细菌 DNA 促旋酶（拓扑异构酶 Ⅱ）与拓扑异构酶 Ⅳ 阻断 DNA 复制"
+  },
+  {
+    "id": "17",
+    "name": "环丙沙星",
+    "smiles": "O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O",
+    "structure": "assets/structures/17.svg",
+    "category": "合成抗菌药 · 氟喹诺酮类抗菌药（第三、四代）",
+    "aliases": [
+      "环丙氟哌酸",
+      "ciprofloxacin"
+    ],
+    "chapter": "合成抗菌药",
+    "subcategory": "氟喹诺酮类抗菌药（第三、四代）",
+    "sortOrder": 173,
+    "mechanism": "抑制细菌 DNA 促旋酶与拓扑异构酶 Ⅳ 产生杀菌作用（第三代）"
+  },
+  {
+    "id": "18",
+    "name": "异烟肼",
+    "smiles": "NNC(=O)c1ccncc1",
+    "structure": "assets/structures/18.svg",
+    "category": "抗结核药 · 酰肼类抗结核药",
+    "aliases": [
+      "雷米封",
+      "INH",
+      "isoniazid"
+    ],
+    "chapter": "抗结核药",
+    "subcategory": "酰肼类抗结核药",
+    "sortOrder": 182,
+    "mechanism": "经结核菌过氧化氢-过氧化物酶（KatG）活化抑制分枝菌酸合成破坏细胞壁"
+  },
+  {
+    "id": "19",
+    "name": "磺胺嘧啶",
+    "smiles": "Nc1ccc(S(=O)(=O)Nc2ncccn2)cc1",
+    "structure": "assets/structures/19.svg",
+    "category": "合成抗菌药 · 磺胺类抗菌药",
+    "aliases": [
+      "SD",
+      "sulfadiazine"
+    ],
+    "chapter": "合成抗菌药",
+    "subcategory": "磺胺类抗菌药",
+    "sortOrder": 177,
+    "mechanism": "细菌二氢叶酸合成酶竞争性抑制剂（血浆蛋白结合率低易透过血脑屏障）"
+  },
+  {
+    "id": "20",
+    "name": "磺胺",
+    "smiles": "Nc1ccc(S(N)(=O)=O)cc1",
+    "structure": "assets/structures/20.svg",
+    "category": "合成抗菌药 · 磺胺类抗菌药",
+    "aliases": [
+      "对氨基苯磺酰胺",
+      "sulfanilamide"
+    ],
+    "chapter": "合成抗菌药",
+    "subcategory": "磺胺类抗菌药",
+    "sortOrder": 176,
+    "mechanism": "二氢叶酸合成酶竞争性抑制剂（与对氨基苯甲酸 PABA 竞争阻断叶酸合成）"
+  },
+  {
+    "id": "21",
+    "name": "甲苯磺丁脲",
+    "smiles": "CCCCNC(=O)NS(=O)(=O)c1ccc(C)cc1",
+    "structure": "assets/structures/21.svg",
+    "category": "降血糖药 · 磺酰脲类促胰岛素分泌药",
+    "aliases": [
+      "甲糖宁",
+      "D860",
+      "tolbutamide"
+    ],
+    "chapter": "降血糖药",
+    "subcategory": "磺酰脲类促胰岛素分泌药",
+    "sortOrder": 207,
+    "mechanism": "结合胰岛 β 细胞膜 KATP 通道 SUR1 亚基关闭钾通道促钙内流释放胰岛素"
+  },
+  {
+    "id": "22",
+    "name": "二甲双胍",
+    "smiles": "CN(C)C(=N)NC(=N)N",
+    "structure": "assets/structures/22.svg",
+    "category": "降血糖药 · 双胍类降血糖药",
+    "aliases": [
+      "甲福明",
+      "metformin"
+    ],
+    "chapter": "降血糖药",
+    "subcategory": "双胍类降血糖药",
+    "sortOrder": 211,
+    "mechanism": "激活肝脏腺苷酸活化蛋白激酶（AMPK）抑制肝糖异生并改善外周胰岛素敏感性"
+  },
+  {
+    "id": "23",
+    "name": "雌二醇",
+    "smiles": "C[C@]12CC[C@H]3[C@@H](CCc4cc(O)ccc43)[C@@H]1CC[C@@H]2O",
+    "structure": "assets/structures/23.svg",
+    "category": "甾体激素类药物 · 甾体雌激素",
+    "aliases": [
+      "17β-雌二醇",
+      "E2",
+      "estradiol"
+    ],
+    "chapter": "甾体激素类药物",
+    "subcategory": "甾体雌激素",
+    "sortOrder": 213,
+    "mechanism": "结合并激活靶细胞内雌激素受体（ERα / ERβ）调控生殖与骨代谢基因转录"
+  },
+  {
+    "id": "24",
+    "name": "睾酮",
+    "smiles": "C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O",
+    "structure": "assets/structures/24.svg",
+    "category": "甾体激素类药物 · 雄激素及同化激素",
+    "aliases": [
+      "睾丸酮",
+      "testosterone"
+    ],
+    "chapter": "甾体激素类药物",
+    "subcategory": "雄激素及同化激素",
+    "sortOrder": 216,
+    "mechanism": "结合胞内雄激素受体（AR）或经 5α-还原酶转化为双氢睾酮调控靶基因转录"
+  },
+  {
+    "id": "25",
+    "name": "黄体酮",
+    "smiles": "CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C",
+    "structure": "assets/structures/25.svg",
+    "category": "甾体激素类药物 · 孕激素",
+    "aliases": [
+      "孕酮",
+      "progesterone"
+    ],
+    "chapter": "甾体激素类药物",
+    "subcategory": "孕激素",
+    "sortOrder": 218,
+    "mechanism": "激动子宫内膜胞内孕激素受体（PR）促使内膜转化为分泌期并维持妊娠"
+  },
+  {
+    "id": "26",
+    "name": "炔诺酮",
+    "smiles": "C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@H]43)[C@@H]1CC[C@@]2(O)C#C",
+    "structure": "assets/structures/26.svg",
+    "category": "甾体激素类药物 · 孕激素",
+    "aliases": [
+      "去甲炔酮",
+      "norethindrone",
+      "norethisterone"
+    ],
+    "chapter": "甾体激素类药物",
+    "subcategory": "孕激素",
+    "sortOrder": 219,
+    "mechanism": "激动胞内孕激素受体（PR）抑制促性腺激素释放（19-去甲睾酮衍生物）"
+  },
+  {
+    "id": "27",
+    "name": "左炔诺孕酮",
+    "smiles": "CC[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@H]43)[C@@H]1CC[C@@]2(O)C#C",
+    "structure": "assets/structures/27.svg",
+    "category": "甾体激素类药物 · 孕激素",
+    "aliases": [
+      "左旋炔诺孕酮",
+      "LNG",
+      "levonorgestrel"
+    ],
+    "chapter": "甾体激素类药物",
+    "subcategory": "孕激素",
+    "sortOrder": 220,
+    "mechanism": "强效激动孕激素受体（PR）抑制排卵、阻碍着床并使宫颈黏液稠厚"
+  },
+  {
+    "id": "28",
+    "name": "氢化可的松",
+    "smiles": "C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@@H](O)C[C@@]4(C)[C@H]3CC[C@]4(O)C(=O)CO",
+    "structure": "assets/structures/28.svg",
+    "category": "甾体激素类药物 · 肾上腺糖皮质激素",
+    "aliases": [
+      "皮质醇",
+      "hydrocortisone"
+    ],
+    "chapter": "甾体激素类药物",
+    "subcategory": "肾上腺糖皮质激素",
+    "sortOrder": 222,
+    "mechanism": "激动胞内糖皮质激素受体（GR）诱导脂皮素抑制磷脂酶 A2 与促炎因子表达"
+  },
+  {
+    "id": "29",
+    "name": "地塞米松",
+    "smiles": "C[C@]12C=CC(=O)C=C1CC[C@@H]3[C@]2(F)[C@@H](O)C[C@@]4(C)[C@H]3C[C@@H](C)[C@]4(O)C(=O)CO",
+    "structure": "assets/structures/29.svg",
+    "category": "甾体激素类药物 · 肾上腺糖皮质激素",
+    "aliases": [
+      "氟美松",
+      "dexamethasone"
+    ],
+    "chapter": "甾体激素类药物",
+    "subcategory": "肾上腺糖皮质激素",
+    "sortOrder": 224,
+    "mechanism": "长效强效激动胞内糖皮质激素受体（GR）发挥抗炎、抗毒、抗免疫作用"
+  },
+  {
+    "id": "30",
+    "name": "维生素 C（抗坏血酸）",
+    "smiles": "O=C1O[C@H]([C@@H](O)CO)C(O)=C1O",
+    "structure": "assets/structures/30.svg",
+    "category": "维生素 · 水溶性维生素",
+    "aliases": [
+      "维生素C",
+      "VC",
+      "L-抗坏血酸",
+      "ascorbic acid"
+    ],
+    "chapter": "维生素",
+    "subcategory": "水溶性维生素",
+    "sortOrder": 231,
+    "mechanism": "体内重要水溶性抗氧化供氢体并作为脯氨酰/赖氨酰羟化酶辅因子促胶原蛋白合成"
+  },
+  {
+    "id": "31",
+    "name": "地西泮",
+    "smiles": "CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3",
+    "structure": "assets/structures/31.svg",
+    "category": "镇静催眠药与抗癫痫药 · 苯二氮䓬类镇静催眠药",
+    "aliases": [
+      "安定",
+      "diazepam"
+    ],
+    "chapter": "镇静催眠药与抗癫痫药",
+    "subcategory": "苯二氮䓬类镇静催眠药",
+    "sortOrder": 1,
+    "mechanism": "GABAA 受体苯二氮䓬位点正向变构调节剂"
+  },
+  {
+    "id": "32",
+    "name": "苯巴比妥",
+    "smiles": "CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2",
+    "structure": "assets/structures/32.svg",
+    "category": "镇静催眠药与抗癫痫药 · 巴比妥类镇静催眠与抗癫痫药",
+    "aliases": [
+      "鲁米那",
+      "phenobarbital"
+    ],
+    "chapter": "镇静催眠药与抗癫痫药",
+    "subcategory": "巴比妥类镇静催眠与抗癫痫药",
+    "sortOrder": 8,
+    "mechanism": "GABAA 受体巴比妥位点激动剂（延长氯通道开放时间）"
+  },
+  {
+    "id": "33",
+    "name": "苯妥英",
+    "smiles": "C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3",
+    "structure": "assets/structures/33.svg",
+    "category": "镇静催眠药与抗癫痫药 · 乙内酰脲类抗癫痫药",
+    "aliases": [
+      "二苯乙内酰脲",
+      "phenytoin",
+      "苯妥英钠",
+      "phenytoin sodium"
+    ],
+    "chapter": "镇静催眠药与抗癫痫药",
+    "subcategory": "乙内酰脲类抗癫痫药",
+    "sortOrder": 9,
+    "mechanism": "电压门控钠通道阻滞剂（稳定神经元细胞膜）"
+  },
+  {
+    "id": "34",
+    "name": "卡马西平",
+    "smiles": "C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N",
+    "structure": "assets/structures/34.svg",
+    "category": "镇静催眠药与抗癫痫药 · 二苯并氮䓬类抗癫痫药",
+    "aliases": [
+      "酰胺咪嗪",
+      "carbamazepine"
+    ],
+    "chapter": "镇静催眠药与抗癫痫药",
+    "subcategory": "二苯并氮䓬类抗癫痫药",
+    "sortOrder": 10,
+    "mechanism": "电压门控钠通道阻滞剂（抑制癫痫灶高频放电）"
+  },
+  {
+    "id": "35",
+    "name": "丙戊酸",
+    "smiles": "CCCC(CCC)C(=O)O",
+    "structure": "assets/structures/35.svg",
+    "category": "镇静催眠药与抗癫痫药 · 脂肪羧酸类抗癫痫药",
+    "aliases": [
+      "丙基戊酸",
+      "VPA",
+      "valproic acid"
+    ],
+    "chapter": "镇静催眠药与抗癫痫药",
+    "subcategory": "脂肪羧酸类抗癫痫药",
+    "sortOrder": 11,
+    "mechanism": "抑制 GABA 降解酶并阻滞电压门控钠通道与 T 型钙通道"
+  },
+  {
+    "id": "36",
+    "name": "氯丙嗪",
+    "smiles": "CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl",
+    "structure": "assets/structures/36.svg",
+    "category": "抗精神病药 · 吩噻嗪类抗精神病药",
+    "aliases": [
+      "冬眠灵",
+      "chlorpromazine"
+    ],
+    "chapter": "抗精神病药",
+    "subcategory": "吩噻嗪类抗精神病药",
+    "sortOrder": 14,
+    "mechanism": "中枢多巴胺 D2 受体拮抗剂"
+  },
+  {
+    "id": "37",
+    "name": "氟哌啶醇",
+    "smiles": "C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F",
+    "structure": "assets/structures/37.svg",
+    "category": "抗精神病药 · 丁酰苯类抗精神病药",
+    "aliases": [
+      "氟哌丁苯",
+      "haloperidol"
+    ],
+    "chapter": "抗精神病药",
+    "subcategory": "丁酰苯类抗精神病药",
+    "sortOrder": 17,
+    "mechanism": "强效选择性中枢多巴胺 D2 受体拮抗剂"
+  },
+  {
+    "id": "38",
+    "name": "氟西汀",
+    "smiles": "CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F",
+    "structure": "assets/structures/38.svg",
+    "category": "抗抑郁药 · 选择性 5-HT 再摄取抑制剂",
+    "aliases": [
+      "百忧解",
+      "fluoxetine"
+    ],
+    "chapter": "抗抑郁药",
+    "subcategory": "选择性 5-HT 再摄取抑制剂",
+    "sortOrder": 24,
+    "mechanism": "选择性抑制中枢 5-羟色胺转运体（SERT）阻断再摄取"
+  },
+  {
+    "id": "39",
+    "name": "阿米替林",
+    "smiles": "CN(C)CCC=C1C2=CC=CC=C2CCC3=CC=CC=C31",
+    "structure": "assets/structures/39.svg",
+    "category": "抗抑郁药 · 三环类抗抑郁药（二苯并环庚二烯类）",
+    "aliases": [
+      "阿密替林",
+      "amitriptyline"
+    ],
+    "chapter": "抗抑郁药",
+    "subcategory": "三环类抗抑郁药（二苯并环庚二烯类）",
+    "sortOrder": 23,
+    "mechanism": "突触前膜去甲肾上腺素（NE）与 5-HT 再摄取抑制剂"
+  },
+  {
+    "id": "40",
+    "name": "吗啡",
+    "smiles": "CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3[C@H](C=C4)O",
+    "structure": "assets/structures/40.svg",
+    "category": "镇痛药 · 吗啡生物碱及半合成镇痛药",
+    "aliases": [
+      "吗啡碱",
+      "morphine"
+    ],
+    "chapter": "镇痛药",
+    "subcategory": "吗啡生物碱及半合成镇痛药",
+    "sortOrder": 26,
+    "mechanism": "中枢 μ 阿片受体激动剂"
+  },
+  {
+    "id": "41",
+    "name": "哌替啶",
+    "smiles": "CCOC(=O)C1(CCN(CC1)C)C2=CC=CC=C2",
+    "structure": "assets/structures/41.svg",
+    "category": "镇痛药 · 哌啶类合成镇痛药",
+    "aliases": [
+      "度冷丁",
+      "美哌利定",
+      "pethidine"
+    ],
+    "chapter": "镇痛药",
+    "subcategory": "哌啶类合成镇痛药",
+    "sortOrder": 28,
+    "mechanism": "中枢 μ 阿片受体激动剂"
+  },
+  {
+    "id": "42",
+    "name": "左旋多巴",
+    "smiles": "C1=CC(=C(C=C1C[C@@H](C(=O)O)N)O)O",
+    "structure": "assets/structures/42.svg",
+    "category": "神经退行性疾病、麻醉与中枢兴奋药 · 拟多巴胺类抗帕金森病药",
+    "aliases": [
+      "L-DOPA",
+      "L-多巴",
+      "levodopa"
+    ],
+    "chapter": "神经退行性疾病、麻醉与中枢兴奋药",
+    "subcategory": "拟多巴胺类抗帕金森病药",
+    "sortOrder": 34,
+    "mechanism": "多巴胺生物合成前体药（入脑经多巴脱羧酶转化为多巴胺）"
+  },
+  {
+    "id": "43",
+    "name": "多奈哌齐",
+    "smiles": "COC1=C(C=C2C(=C1)CC(C2=O)CC3CCN(CC3)CC4=CC=CC=C4)OC",
+    "structure": "assets/structures/43.svg",
+    "category": "神经退行性疾病、麻醉与中枢兴奋药 · 胆碱酯酶抑制剂类抗痴呆药",
+    "aliases": [
+      "安理申",
+      "donepezil"
+    ],
+    "chapter": "神经退行性疾病、麻醉与中枢兴奋药",
+    "subcategory": "胆碱酯酶抑制剂类抗痴呆药",
+    "sortOrder": 37,
+    "mechanism": "可逆性高选择性中枢乙酰胆碱酯酶（AChE）抑制剂"
+  },
+  {
+    "id": "44",
+    "name": "新斯的明",
+    "smiles": "CN(C)C(=O)OC1=CC=CC(=C1)[N+](C)(C)C",
+    "structure": "assets/structures/44.svg",
+    "category": "拟胆碱、抗胆碱与拟肾上腺素药 · 可逆性胆碱酯酶抑制剂",
+    "aliases": [
+      "普洛斯的明",
+      "neostigmine",
+      "溴新斯的明",
+      "甲硫酸新斯的明",
+      "neostigmine bromide"
+    ],
+    "chapter": "拟胆碱、抗胆碱与拟肾上腺素药",
+    "subcategory": "可逆性胆碱酯酶抑制剂",
+    "sortOrder": 48,
+    "mechanism": "可逆性氨甲酰化抑制乙酰胆碱酯酶（AChE）并直接激动骨骼肌 N2 受体"
+  },
+  {
+    "id": "45",
+    "name": "阿托品",
+    "smiles": "OCC(c1ccccc1)C(=O)O[C@@H]1C[C@@H]2CC[C@H](C1)N2C",
+    "structure": "assets/structures/45.svg",
+    "category": "拟胆碱、抗胆碱与拟肾上腺素药 · 莨菪生物碱类 M 受体阻断剂",
+    "aliases": [
+      "颠茄碱",
+      "atropine"
+    ],
+    "chapter": "拟胆碱、抗胆碱与拟肾上腺素药",
+    "subcategory": "莨菪生物碱类 M 受体阻断剂",
+    "sortOrder": 49,
+    "mechanism": "竞争性阻断节后胆碱能神经支配效应器 M 胆碱受体"
+  },
+  {
+    "id": "46",
+    "name": "东莨菪碱",
+    "smiles": "OC[C@H](c1ccccc1)C(=O)O[C@@H]1C[C@H]2N([C@@H](C1)[C@H]1[C@@H]2O1)C",
+    "structure": "assets/structures/46.svg",
+    "category": "拟胆碱、抗胆碱与拟肾上腺素药 · 莨菪生物碱类 M 受体阻断剂",
+    "aliases": [
+      "天仙子碱",
+      "scopolamine"
+    ],
+    "chapter": "拟胆碱、抗胆碱与拟肾上腺素药",
+    "subcategory": "莨菪生物碱类 M 受体阻断剂",
+    "sortOrder": 50,
+    "mechanism": "竞争性阻断外周及中枢 M 胆碱受体（中枢镇静抗晕动显著）"
+  },
+  {
+    "id": "47",
+    "name": "毛果芸香碱",
+    "smiles": "CC[C@H]1[C@H](COC1=O)CC2=CN=CN2C",
+    "structure": "assets/structures/47.svg",
+    "category": "拟胆碱、抗胆碱与拟肾上腺素药 · M 胆碱受体激动剂",
+    "aliases": [
+      "匹鲁卡品",
+      "pilocarpine"
+    ],
+    "chapter": "拟胆碱、抗胆碱与拟肾上腺素药",
+    "subcategory": "M 胆碱受体激动剂",
+    "sortOrder": 47,
+    "mechanism": "直接激动瞳孔括约肌、睫状肌与腺体 M 胆碱受体"
+  },
+  {
+    "id": "48",
+    "name": "异丙肾上腺素",
+    "smiles": "CC(C)NCC(C1=CC(=C(C=C1)O)O)O",
+    "structure": "assets/structures/48.svg",
+    "category": "拟胆碱、抗胆碱与拟肾上腺素药 · β1 及非选择性 β 受体激动剂",
+    "aliases": [
+      "异丙去甲肾上腺素",
+      "isoproterenol",
+      "isoprenaline"
+    ],
+    "chapter": "拟胆碱、抗胆碱与拟肾上腺素药",
+    "subcategory": "β1 及非选择性 β 受体激动剂",
+    "sortOrder": 54,
+    "mechanism": "强效非选择性激动心脏 β1 与支气管 β2 肾上腺素受体"
+  },
+  {
+    "id": "49",
+    "name": "沙丁胺醇",
+    "smiles": "CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O",
+    "structure": "assets/structures/49.svg",
+    "category": "拟胆碱、抗胆碱与拟肾上腺素药 · 选择性 β2 受体激动剂",
+    "aliases": [
+      "舒喘灵",
+      "salbutamol"
+    ],
+    "chapter": "拟胆碱、抗胆碱与拟肾上腺素药",
+    "subcategory": "选择性 β2 受体激动剂",
+    "sortOrder": 56,
+    "mechanism": "选择性激动支气管平滑肌 β2 肾上腺素受体舒张气道"
+  },
+  {
+    "id": "50",
+    "name": "氯苯那敏",
+    "smiles": "CN(C)CCC(C1=CC=C(C=C1)Cl)C2=CC=CC=N2",
+    "structure": "assets/structures/50.svg",
+    "category": "抗过敏药 · 第一代 H1 受体拮抗剂",
+    "aliases": [
+      "扑尔敏",
+      "chlorpheniramine",
+      "chlorphenamine"
+    ],
+    "chapter": "抗过敏药",
+    "subcategory": "第一代 H1 受体拮抗剂",
+    "sortOrder": 59,
+    "mechanism": "竞争性拮抗组胺 H1 受体（丙胺类）"
+  },
+  {
+    "id": "51",
+    "name": "苯海拉明",
+    "smiles": "CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2",
+    "structure": "assets/structures/51.svg",
+    "category": "抗过敏药 · 第一代 H1 受体拮抗剂",
+    "aliases": [
+      "可他敏",
+      "diphenhydramine"
+    ],
+    "chapter": "抗过敏药",
+    "subcategory": "第一代 H1 受体拮抗剂",
+    "sortOrder": 58,
+    "mechanism": "竞争性拮抗组胺 H1 受体（乙醇胺类，易入脑产生镇静抗晕动）"
+  },
+  {
+    "id": "52",
+    "name": "硝苯地平",
+    "smiles": "CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC",
+    "structure": "assets/structures/52.svg",
+    "category": "抗高血压药 · 二氢吡啶类钙通道阻滞剂",
+    "aliases": [
+      "心痛定",
+      "nifedipine"
+    ],
+    "chapter": "抗高血压药",
+    "subcategory": "二氢吡啶类钙通道阻滞剂",
+    "sortOrder": 64,
+    "mechanism": "选择性阻滞血管平滑肌 L 型电压门控钙通道扩张动脉"
+  },
+  {
+    "id": "53",
+    "name": "氨氯地平",
+    "smiles": "CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN",
+    "structure": "assets/structures/53.svg",
+    "category": "抗高血压药 · 二氢吡啶类钙通道阻滞剂",
+    "aliases": [
+      "络活喜",
+      "amlodipine"
+    ],
+    "chapter": "抗高血压药",
+    "subcategory": "二氢吡啶类钙通道阻滞剂",
+    "sortOrder": 66,
+    "mechanism": "长效阻滞血管平滑肌 L 型电压门控钙通道"
+  },
+  {
+    "id": "54",
+    "name": "卡托普利",
+    "smiles": "C[C@H](CS)C(=O)N1CCC[C@H]1C(=O)O",
+    "structure": "assets/structures/54.svg",
+    "category": "抗高血压药 · 血管紧张素转化酶抑制剂",
+    "aliases": [
+      "巯甲丙脯酸",
+      "ACEI",
+      "captopril"
+    ],
+    "chapter": "抗高血压药",
+    "subcategory": "血管紧张素转化酶抑制剂",
+    "sortOrder": 69,
+    "mechanism": "巯基螯合锌离子竞争性抑制血管紧张素转化酶（ACE）"
+  },
+  {
+    "id": "55",
+    "name": "依那普利",
+    "smiles": "CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N2CCC[C@H]2C(=O)O",
+    "structure": "assets/structures/55.svg",
+    "category": "抗高血压药 · 血管紧张素转化酶抑制剂",
+    "aliases": [
+      "恩纳普利",
+      "ACEI",
+      "enalapril"
+    ],
+    "chapter": "抗高血压药",
+    "subcategory": "血管紧张素转化酶抑制剂",
+    "sortOrder": 70,
+    "mechanism": "体内水解为依那普利拉抑制血管紧张素转化酶（ACE）"
+  },
+  {
+    "id": "56",
+    "name": "氯沙坦",
+    "smiles": "CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)CO)Cl",
+    "structure": "assets/structures/56.svg",
+    "category": "抗高血压药 · 血管紧张素 Ⅱ 受体拮抗剂",
+    "aliases": [
+      "洛沙坦",
+      "ARB",
+      "losartan"
+    ],
+    "chapter": "抗高血压药",
+    "subcategory": "血管紧张素 Ⅱ 受体拮抗剂",
+    "sortOrder": 71,
+    "mechanism": "选择性竞争拮抗血管紧张素 Ⅱ AT1 受体（联苯四唑类）"
+  },
+  {
+    "id": "57",
+    "name": "美托洛尔",
+    "smiles": "CC(C)NCC(COC1=CC=C(C=C1)CCOC)O",
+    "structure": "assets/structures/57.svg",
+    "category": "抗高血压药 · β 肾上腺素受体阻滞剂",
+    "aliases": [
+      "倍他乐克",
+      "metoprolol"
+    ],
+    "chapter": "抗高血压药",
+    "subcategory": "β 肾上腺素受体阻滞剂",
+    "sortOrder": 74,
+    "mechanism": "选择性竞争阻断心脏 β1 肾上腺素受体"
+  },
+  {
+    "id": "58",
+    "name": "辛伐他汀",
+    "smiles": "CCC(C)(C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C",
+    "structure": "assets/structures/58.svg",
+    "category": "调血脂药 · 他汀类调血脂药",
+    "aliases": [
+      "舒降之",
+      "他汀",
+      "simvastatin"
+    ],
+    "chapter": "调血脂药",
+    "subcategory": "他汀类调血脂药",
+    "sortOrder": 89,
+    "mechanism": "内酯前药水解后竞争性抑制肝脏 HMG-CoA 还原酶阻断胆固醇合成"
+  },
+  {
+    "id": "59",
+    "name": "阿托伐他汀",
+    "smiles": "CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4",
+    "structure": "assets/structures/59.svg",
+    "category": "调血脂药 · 他汀类调血脂药",
+    "aliases": [
+      "立普妥",
+      "他汀",
+      "atorvastatin"
+    ],
+    "chapter": "调血脂药",
+    "subcategory": "他汀类调血脂药",
+    "sortOrder": 91,
+    "mechanism": "强效竞争性抑制肝脏 HMG-CoA 还原酶阻断内源性胆固醇合成"
+  },
+  {
+    "id": "60",
+    "name": "非诺贝特",
+    "smiles": "CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl",
+    "structure": "assets/structures/60.svg",
+    "category": "调血脂药 · 贝特类（苯氧酸类）调血脂药",
+    "aliases": [
+      "力平之",
+      "fenofibrate"
+    ],
+    "chapter": "调血脂药",
+    "subcategory": "贝特类（苯氧酸类）调血脂药",
+    "sortOrder": 94,
+    "mechanism": "代谢为非诺贝特酸激动核受体 PPARα 降低甘油三酯并升高 HDL"
+  },
+  {
+    "id": "61",
+    "name": "胺碘酮",
+    "smiles": "CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCN(CC)CC)I",
+    "structure": "assets/structures/61.svg",
+    "category": "抗心律失常与抗心绞痛药 · 钾通道阻滞类抗心律失常药（Ⅲ类）",
+    "aliases": [
+      "可达龙",
+      "amiodarone"
+    ],
+    "chapter": "抗心律失常与抗心绞痛药",
+    "subcategory": "钾通道阻滞类抗心律失常药（Ⅲ类）",
+    "sortOrder": 85,
+    "mechanism": "Ⅲ 类：阻滞心肌多种钾通道显著延长动作电位时程与有效不应期"
+  },
+  {
+    "id": "62",
+    "name": "华法林",
+    "smiles": "CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O",
+    "structure": "assets/structures/62.svg",
+    "category": "抗凝血与抗血小板药 · 香豆素类抗凝血药",
+    "aliases": [
+      "苄丙酮香豆素",
+      "warfarin"
+    ],
+    "chapter": "抗凝血与抗血小板药",
+    "subcategory": "香豆素类抗凝血药",
+    "sortOrder": 95,
+    "mechanism": "抑制肝脏维生素 K 环氧化物还原酶（VKORC1）阻断凝血因子 Ⅱ/Ⅶ/Ⅸ/Ⅹ 活化"
+  },
+  {
+    "id": "63",
+    "name": "氯吡格雷",
+    "smiles": "COC(=O)[C@H](C1=CC=CC=C1Cl)N2CCC3=C(C2)C=CS3",
+    "structure": "assets/structures/63.svg",
+    "category": "抗凝血与抗血小板药 · 噻吩并吡啶类抗血小板药",
+    "aliases": [
+      "波立维",
+      "clopidogrel"
+    ],
+    "chapter": "抗凝血与抗血小板药",
+    "subcategory": "噻吩并吡啶类抗血小板药",
+    "sortOrder": 96,
+    "mechanism": "经肝 CYP2C19 活化后不可逆阻断血小板 ADP 受体 P2Y12"
+  },
+  {
+    "id": "64",
+    "name": "氢氯噻嗪",
+    "smiles": "C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl",
+    "structure": "assets/structures/64.svg",
+    "category": "利尿药 · 噻嗪类利尿药",
+    "aliases": [
+      "双氢克尿塞",
+      "HCTZ",
+      "hydrochlorothiazide"
+    ],
+    "chapter": "利尿药",
+    "subcategory": "噻嗪类利尿药",
+    "sortOrder": 80,
+    "mechanism": "抑制远曲小管近端 Na+-Cl- 共转运体（NCC）"
+  },
+  {
+    "id": "65",
+    "name": "呋塞米",
+    "smiles": "C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl",
+    "structure": "assets/structures/65.svg",
+    "category": "利尿药 · 袢利尿药（高效利尿药）",
+    "aliases": [
+      "速尿",
+      "furosemide"
+    ],
+    "chapter": "利尿药",
+    "subcategory": "袢利尿药（高效利尿药）",
+    "sortOrder": 81,
+    "mechanism": "特异抑制髓袢升支粗段 Na+-K+-2Cl- 共转运体（NKCC2）"
+  },
+  {
+    "id": "66",
+    "name": "螺内酯",
+    "smiles": "CC(=O)S[C@@H]1CC2=CC(=O)CC[C@@]2([C@@H]3[C@@H]1[C@@H]4CC[C@]5([C@]4(CC3)C)CCC(=O)O5)C",
+    "structure": "assets/structures/66.svg",
+    "category": "利尿药 · 醛固酮受体拮抗类保钾利尿药",
+    "aliases": [
+      "安体舒通",
+      "spironolactone"
+    ],
+    "chapter": "利尿药",
+    "subcategory": "醛固酮受体拮抗类保钾利尿药",
+    "sortOrder": 82,
+    "mechanism": "竞争性拮抗远曲小管与集合管胞内盐皮质激素（醛固酮）受体"
+  },
+  {
+    "id": "67",
+    "name": "萘普生",
+    "smiles": "C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O",
+    "structure": "assets/structures/67.svg",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 芳基丙酸类非甾体抗炎药",
+    "aliases": [
+      "甲氧萘丙酸",
+      "naproxen"
+    ],
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "subcategory": "芳基丙酸类非甾体抗炎药",
+    "sortOrder": 120,
+    "mechanism": "S-(+)-构型可逆抑制环氧合酶（COX-1 / COX-2）"
+  },
+  {
+    "id": "68",
+    "name": "双氯芬酸",
+    "smiles": "C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl",
+    "structure": "assets/structures/68.svg",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 芳基乙酸与吲哚乙酸类非甾体抗炎药",
+    "aliases": [
+      "双氯灭痛",
+      "diclofenac",
+      "双氯芬酸钠",
+      "diclofenac sodium"
+    ],
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "subcategory": "芳基乙酸与吲哚乙酸类非甾体抗炎药",
+    "sortOrder": 115,
+    "mechanism": "强效非选择性抑制环氧合酶（COX-1 / COX-2）减少前列腺素生成"
+  },
+  {
+    "id": "69",
+    "name": "吲哚美辛",
+    "smiles": "CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O",
+    "structure": "assets/structures/69.svg",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 芳基乙酸与吲哚乙酸类非甾体抗炎药",
+    "aliases": [
+      "消炎痛",
+      "indomethacin"
+    ],
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "subcategory": "芳基乙酸与吲哚乙酸类非甾体抗炎药",
+    "sortOrder": 116,
+    "mechanism": "强效非选择性抑制环氧合酶（COX-1 / COX-2）"
+  },
+  {
+    "id": "70",
+    "name": "别嘌醇",
+    "smiles": "C1=NNC2=C1C(=O)NC=N2",
+    "structure": "assets/structures/70.svg",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 抑制尿酸生成类抗痛风药",
+    "aliases": [
+      "别嘌呤醇",
+      "allopurinol"
+    ],
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "subcategory": "抑制尿酸生成类抗痛风药",
+    "sortOrder": 125,
+    "mechanism": "自身及代谢物羟嘌呤醇抑制黄嘌呤氧化酶（XO）阻断尿酸生成"
+  },
+  {
+    "id": "71",
+    "name": "氨苄西林",
+    "smiles": "CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=CC=C3)N)C(=O)O)C",
+    "structure": "assets/structures/71.svg",
+    "category": "抗生素 · 青霉素类抗生素",
+    "aliases": [
+      "氨苄青霉素",
+      "安必仙",
+      "ampicillin"
+    ],
+    "chapter": "抗生素",
+    "subcategory": "青霉素类抗生素",
+    "sortOrder": 150,
+    "mechanism": "结合细菌 PBPs 抑制细胞壁肽聚糖交联（广谱氨基青霉素）"
+  },
+  {
+    "id": "72",
+    "name": "头孢氨苄",
+    "smiles": "CC1=C(N2[C@@H]([C@@H](C2=O)NC(=O)[C@@H](C3=CC=CC=C3)N)SC1)C(=O)O",
+    "structure": "assets/structures/72.svg",
+    "category": "抗生素 · 头孢菌素类抗生素",
+    "aliases": [
+      "先锋霉素Ⅳ",
+      "先锋四号",
+      "cephalexin"
+    ],
+    "chapter": "抗生素",
+    "subcategory": "头孢菌素类抗生素",
+    "sortOrder": 153,
+    "mechanism": "结合细菌 PBPs 抑制细胞壁合成（第一代口服头孢菌素）"
+  },
+  {
+    "id": "73",
+    "name": "头孢呋辛",
+    "smiles": "CO/N=C(/C1=CC=CO1)\\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)COC(=O)N)C(=O)O",
+    "structure": "assets/structures/73.svg",
+    "category": "抗生素 · 头孢菌素类抗生素",
+    "aliases": [
+      "头孢呋肟",
+      "cefuroxime"
+    ],
+    "chapter": "抗生素",
+    "subcategory": "头孢菌素类抗生素",
+    "sortOrder": 154,
+    "mechanism": "结合细菌 PBPs 抑制细胞壁合成（第二代头孢菌素，顺式甲氧肟耐 β-内酰胺酶）"
+  },
+  {
+    "id": "74",
+    "name": "左氧氟沙星",
+    "smiles": "C[C@H]1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O",
+    "structure": "assets/structures/74.svg",
+    "category": "合成抗菌药 · 氟喹诺酮类抗菌药（第三、四代）",
+    "aliases": [
+      "左旋氧氟沙星",
+      "levofloxacin"
+    ],
+    "chapter": "合成抗菌药",
+    "subcategory": "氟喹诺酮类抗菌药（第三、四代）",
+    "sortOrder": 174,
+    "mechanism": "抑制细菌 DNA 促旋酶与拓扑异构酶 Ⅳ（氧氟沙星左旋 S-构型活性体）"
+  },
+  {
+    "id": "75",
+    "name": "红霉素",
+    "smiles": "CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O",
+    "structure": "assets/structures/75.svg",
+    "category": "抗生素 · 大环内酯类抗生素",
+    "aliases": [
+      "红霉素A",
+      "erythromycin"
+    ],
+    "chapter": "抗生素",
+    "subcategory": "大环内酯类抗生素",
+    "sortOrder": 164,
+    "mechanism": "可逆结合细菌核糖体 50S 亚基阻断转肽作用与 mRNA 移位抑制蛋白质合成"
+  },
+  {
+    "id": "76",
+    "name": "氯霉素",
+    "smiles": "C1=CC(=CC=C1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]",
+    "structure": "assets/structures/76.svg",
+    "category": "抗生素 · 酰胺醇类抗生素",
+    "aliases": [
+      "左旋氯霉素",
+      "chloramphenicol"
+    ],
+    "chapter": "抗生素",
+    "subcategory": "酰胺醇类抗生素",
+    "sortOrder": 168,
+    "mechanism": "结合细菌核糖体 50S 亚基肽酰转移酶位点阻止肽键形成抑制蛋白质合成"
+  },
+  {
+    "id": "77",
+    "name": "四环素",
+    "smiles": "C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O",
+    "structure": "assets/structures/77.svg",
+    "category": "抗生素 · 四环素类抗生素",
+    "aliases": [
+      "四环菌素",
+      "tetracycline"
+    ],
+    "chapter": "抗生素",
+    "subcategory": "四环素类抗生素",
+    "sortOrder": 162,
+    "mechanism": "结合细菌核糖体 30S 亚基阻止氨酰-tRNA 进入 A 位抑制蛋白质合成"
+  },
+  {
+    "id": "78",
+    "name": "磺胺甲噁唑",
+    "smiles": "CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N",
+    "structure": "assets/structures/78.svg",
+    "category": "合成抗菌药 · 磺胺类抗菌药",
+    "aliases": [
+      "新诺明",
+      "磺胺甲基异噁唑",
+      "SMZ",
+      "SMX",
+      "sulfamethoxazole"
+    ],
+    "chapter": "合成抗菌药",
+    "subcategory": "磺胺类抗菌药",
+    "sortOrder": 178,
+    "mechanism": "细菌二氢叶酸合成酶竞争性抑制剂（常与甲氧苄啶协同双重阻断叶酸代谢）"
+  },
+  {
+    "id": "79",
+    "name": "甲氧苄啶",
+    "smiles": "COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N",
+    "structure": "assets/structures/79.svg",
+    "category": "合成抗菌药 · 2,4-二氨基嘧啶类抗菌增效剂",
+    "aliases": [
+      "甲氧苄氨嘧啶",
+      "TMP",
+      "trimethoprim"
+    ],
+    "chapter": "合成抗菌药",
+    "subcategory": "2,4-二氨基嘧啶类抗菌增效剂",
+    "sortOrder": 179,
+    "mechanism": "细菌二氢叶酸还原酶（DHFR）选择性抑制剂（与磺胺类联用双重阻断叶酸代谢）"
+  },
+  {
+    "id": "80",
+    "name": "利福平",
+    "smiles": "C[C@H]1/C=C/C=C(\\C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)[C@](O4)(O/C=C/[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)/C=N/N5CCN(CC5)C)/C",
+    "structure": "assets/structures/80.svg",
+    "category": "抗结核药 · 利福霉素类抗结核抗生素",
+    "aliases": [
+      "甲哌利福霉素",
+      "RFP",
+      "rifampicin"
+    ],
+    "chapter": "抗结核药",
+    "subcategory": "利福霉素类抗结核抗生素",
+    "sortOrder": 185,
+    "mechanism": "特异结合细菌依赖 DNA 的 RNA 聚合酶 β 亚基阻断细菌 mRNA 转录起始"
+  },
+  {
+    "id": "81",
+    "name": "乙胺丁醇",
+    "smiles": "CC[C@@H](CO)NCCN[C@@H](CC)CO",
+    "structure": "assets/structures/81.svg",
+    "category": "抗结核药 · 乙二胺类抗结核药",
+    "aliases": [
+      "EMB",
+      "ethambutol"
+    ],
+    "chapter": "抗结核药",
+    "subcategory": "乙二胺类抗结核药",
+    "sortOrder": 184,
+    "mechanism": "抑制结核分枝杆菌阿拉伯糖基转移酶阻断细胞壁阿拉伯半乳聚糖合成"
+  },
+  {
+    "id": "82",
+    "name": "氟康唑",
+    "smiles": "C1=CC(=C(C=C1F)F)C(CN2C=NC=N2)(CN3C=NC=N3)O",
+    "structure": "assets/structures/82.svg",
+    "category": "抗真菌药 · 三唑类抗真菌药",
+    "aliases": [
+      "大扶康",
+      "fluconazole"
+    ],
+    "chapter": "抗真菌药",
+    "subcategory": "三唑类抗真菌药",
+    "sortOrder": 188,
+    "mechanism": "高选择性抑制真菌羊毛甾醇 14α-去甲基化酶（CYP51）阻断麦角甾醇合成"
+  },
+  {
+    "id": "83",
+    "name": "酮康唑",
+    "smiles": "CC(=O)N1CCN(CC1)C2=CC=C(C=C2)OC[C@@H]3CO[C@@](O3)(CN4C=CN=C4)C5=C(C=C(C=C5)Cl)Cl |&1:17,20|",
+    "structure": "assets/structures/83.svg",
+    "category": "抗真菌药 · 咪唑类抗真菌药",
+    "aliases": [
+      "里素劳",
+      "ketoconazole"
+    ],
+    "chapter": "抗真菌药",
+    "subcategory": "咪唑类抗真菌药",
+    "sortOrder": 187,
+    "mechanism": "抑制真菌羊毛甾醇 14α-去甲基化酶（CYP51）破坏真菌细胞膜通透性"
+  },
+  {
+    "id": "84",
+    "name": "阿昔洛韦",
+    "smiles": "C1=NC2=C(N1COCCO)N=C(NC2=O)N",
+    "structure": "assets/structures/84.svg",
+    "category": "抗病毒药 · 开环核苷类抗疱疹病毒药",
+    "aliases": [
+      "无环鸟苷",
+      "ACV",
+      "acyclovir"
+    ],
+    "chapter": "抗病毒药",
+    "subcategory": "开环核苷类抗疱疹病毒药",
+    "sortOrder": 191,
+    "mechanism": "经疱疹病毒胸苷激酶选择性磷酸化后竞争抑制病毒 DNA 聚合酶并终止链延伸"
+  },
+  {
+    "id": "85",
+    "name": "齐多夫定",
+    "smiles": "CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO)N=[N+]=[N-]",
+    "structure": "assets/structures/85.svg",
+    "category": "抗病毒药 · 核苷及核苷酸类逆转录酶/聚合酶抑制剂",
+    "aliases": [
+      "叠氮胸苷",
+      "AZT",
+      "zidovudine"
+    ],
+    "chapter": "抗病毒药",
+    "subcategory": "核苷及核苷酸类逆转录酶/聚合酶抑制剂",
+    "sortOrder": 194,
+    "mechanism": "三磷酸化后竞争性抑制 HIV 逆转录酶并掺入病毒 DNA 充当链终止剂"
+  },
+  {
+    "id": "86",
+    "name": "西咪替丁",
+    "smiles": "CC1=C(N=CN1)CSCCNC(=NC)NC#N",
+    "structure": "assets/structures/86.svg",
+    "category": "消化系统药物 · 组胺 H2 受体拮抗剂",
+    "aliases": [
+      "甲氰咪胍",
+      "cimetidine"
+    ],
+    "chapter": "消化系统药物",
+    "subcategory": "组胺 H2 受体拮抗剂",
+    "sortOrder": 97,
+    "mechanism": "竞争性拮抗胃壁细胞组胺 H2 受体抑制胃酸分泌（咪唑类）"
+  },
+  {
+    "id": "87",
+    "name": "奥美拉唑",
+    "smiles": "CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC",
+    "structure": "assets/structures/87.svg",
+    "category": "消化系统药物 · 质子泵抑制剂",
+    "aliases": [
+      "洛赛克",
+      "PPI",
+      "omeprazole"
+    ],
+    "chapter": "消化系统药物",
+    "subcategory": "质子泵抑制剂",
+    "sortOrder": 100,
+    "mechanism": "酸性分泌小管内重排为次磺酰胺不可逆抑制胃壁细胞 H+/K+-ATP 酶"
+  },
+  {
+    "id": "88",
+    "name": "格列本脲",
+    "smiles": "COC1=C(C=C(C=C1)Cl)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3",
+    "structure": "assets/structures/88.svg",
+    "category": "降血糖药 · 磺酰脲类促胰岛素分泌药",
+    "aliases": [
+      "优降糖",
+      "glibenclamide",
+      "glyburide",
+      "格列苯脲"
+    ],
+    "chapter": "降血糖药",
+    "subcategory": "磺酰脲类促胰岛素分泌药",
+    "sortOrder": 208,
+    "mechanism": "阻滞胰岛 β 细胞膜 ATP 敏感钾通道（KATP）去极化促内源性胰岛素分泌"
+  },
+  {
+    "id": "89",
+    "name": "吡格列酮",
+    "smiles": "CCC1=CN=C(C=C1)CCOC2=CC=C(C=C2)CC3C(=O)NC(=O)S3",
+    "structure": "assets/structures/89.svg",
+    "category": "降血糖药 · 噻唑烷二酮类胰岛素增敏剂",
+    "aliases": [
+      "艾可拓",
+      "pioglitazone"
+    ],
+    "chapter": "降血糖药",
+    "subcategory": "噻唑烷二酮类胰岛素增敏剂",
+    "sortOrder": 212,
+    "mechanism": "高选择性激动核受体过氧化物酶体增殖物激活受体 γ（PPARγ）改善胰岛素抵抗"
+  },
+  {
+    "id": "90",
+    "name": "白消安",
+    "smiles": "CS(=O)(=O)OCCCCOS(=O)(=O)C",
+    "structure": "assets/structures/90.svg",
+    "category": "抗肿瘤药 · 甲磺酸酯类烷化剂",
+    "aliases": [
+      "马利兰",
+      "布司他凡",
+      "busulfan"
+    ],
+    "chapter": "抗肿瘤药",
+    "subcategory": "甲磺酸酯类烷化剂",
+    "sortOrder": 134,
+    "mechanism": "双功能甲磺酸酯经 SN2 机制烷化鸟嘌呤 N7 形成 DNA 链内/链间交联"
+  },
+  {
+    "id": "91",
+    "name": "美法仑",
+    "smiles": "C1=CC(=CC=C1C[C@@H](C(=O)O)N)N(CCCl)CCCl",
+    "structure": "assets/structures/91.svg",
+    "category": "抗肿瘤药 · 氮芥类烷化剂",
+    "aliases": [
+      "溶肉瘤素",
+      "L-PAM",
+      "melphalan"
+    ],
+    "chapter": "抗肿瘤药",
+    "subcategory": "氮芥类烷化剂",
+    "sortOrder": 132,
+    "mechanism": "L-苯丙氨酸载体氮芥经双功能烷化作用交联肿瘤细胞 DNA"
+  },
+  {
+    "id": "92",
+    "name": "甲氨蝶呤",
+    "smiles": "CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O",
+    "structure": "assets/structures/92.svg",
+    "category": "抗肿瘤药 · 叶酸类抗代谢药",
+    "aliases": [
+      "氨甲蝶呤",
+      "MTX",
+      "methotrexate"
+    ],
+    "chapter": "抗肿瘤药",
+    "subcategory": "叶酸类抗代谢药",
+    "sortOrder": 140,
+    "mechanism": "二氢叶酸还原酶（DHFR）高亲和力竞争性抑制剂（阻断四氢叶酸与 dTMP 合成）"
+  },
+  {
+    "id": "93",
+    "name": "阿糖胞苷",
+    "smiles": "C1=CN(C(=O)N=C1N)[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)O",
+    "structure": "assets/structures/93.svg",
+    "category": "抗肿瘤药 · 嘧啶类抗代谢药",
+    "aliases": [
+      "阿糖胞嘧啶",
+      "Ara-C",
+      "cytarabine"
+    ],
+    "chapter": "抗肿瘤药",
+    "subcategory": "嘧啶类抗代谢药",
+    "sortOrder": 137,
+    "mechanism": "转化为三磷酸阿糖胞苷竞争性抑制 DNA 多聚酶并掺入 DNA 终止链延伸"
+  },
+  {
+    "id": "94",
+    "name": "他莫昔芬",
+    "smiles": "CC/C(=C(\\C1=CC=CC=C1)/C2=CC=C(C=C2)OCCN(C)C)/C3=CC=CC=C3",
+    "structure": "assets/structures/94.svg",
+    "category": "抗肿瘤药 · 抗雌激素类抗肿瘤药",
+    "aliases": [
+      "三苯氧胺",
+      "tamoxifen"
+    ],
+    "chapter": "抗肿瘤药",
+    "subcategory": "抗雌激素类抗肿瘤药",
+    "sortOrder": 146,
+    "mechanism": "选择性雌激素受体调节剂（SERM）：竞争性拮抗乳腺癌细胞雌激素受体"
+  },
+  {
+    "id": "95",
+    "name": "伊马替尼",
+    "smiles": "CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5",
+    "structure": "assets/structures/95.svg",
+    "category": "抗肿瘤药 · 酪氨酸激酶抑制剂",
+    "aliases": [
+      "格列卫",
+      "imatinib"
+    ],
+    "chapter": "抗肿瘤药",
+    "subcategory": "酪氨酸激酶抑制剂",
+    "sortOrder": 144,
+    "mechanism": "竞争结合 ATP 位点特异抑制 Bcr-Abl、c-Kit 与 PDGFR 酪氨酸激酶"
+  },
+  {
+    "id": "96",
+    "name": "泼尼松",
+    "smiles": "C[C@]12CC(=O)[C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C",
+    "structure": "assets/structures/96.svg",
+    "category": "甾体激素类药物 · 肾上腺糖皮质激素",
+    "aliases": [
+      "强的松",
+      "prednisone"
+    ],
+    "chapter": "甾体激素类药物",
+    "subcategory": "肾上腺糖皮质激素",
+    "sortOrder": 223,
+    "mechanism": "前药经肝 11β-羟类固醇脱氢酶还原生成 11β-羟基泼尼松龙激动 GR 受体"
+  },
+  {
+    "id": "97",
+    "name": "炔雌醇",
+    "smiles": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)O",
+    "structure": "assets/structures/97.svg",
+    "category": "甾体激素类药物 · 甾体雌激素",
+    "aliases": [
+      "乙炔雌二醇",
+      "EE",
+      "ethinylestradiol"
+    ],
+    "chapter": "甾体激素类药物",
+    "subcategory": "甾体雌激素",
+    "sortOrder": 214,
+    "mechanism": "强效激动雌激素受体（ER）（17α-乙炔基产生位阻显著减慢肝脏首过代谢）"
+  },
+  {
+    "id": "98",
+    "name": "维生素 A",
+    "smiles": "CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/CO)/C)/C",
+    "structure": "assets/structures/98.svg",
+    "category": "维生素 · 脂溶性维生素",
+    "aliases": [
+      "维生素A",
+      "视黄醇",
+      "VA",
+      "retinol"
+    ],
+    "chapter": "维生素",
+    "subcategory": "脂溶性维生素",
+    "sortOrder": 225,
+    "mechanism": "转化为 11-顺视黄醛参与视紫红质合成并转化为视黄酸激动 RAR 维持上皮完整"
+  },
+  {
+    "id": "99",
+    "name": "维生素 D3",
+    "smiles": "C[C@H](CCCC(C)C)[C@H]1CC[C@@H]\\2[C@@]1(CCC/C2=C\\C=C/3\\C[C@H](CCC3=C)O)C",
+    "structure": "assets/structures/99.svg",
+    "category": "维生素 · 脂溶性维生素",
+    "aliases": [
+      "维生素D3",
+      "胆钙化醇",
+      "VD3",
+      "cholecalciferol"
+    ],
+    "chapter": "维生素",
+    "subcategory": "脂溶性维生素",
+    "sortOrder": 226,
+    "mechanism": "经肝 25-羟化与肾 1α-羟化为骨化三醇激动维生素 D 受体（VDR）调节钙磷代谢"
+  },
+  {
+    "id": "100",
+    "name": "维生素 B6",
+    "smiles": "CC1=NC=C(C(=C1O)CO)CO",
+    "structure": "assets/structures/100.svg",
+    "category": "维生素 · 水溶性维生素",
+    "aliases": [
+      "维生素B6",
+      "吡哆醇",
+      "VB6",
+      "pyridoxine"
+    ],
+    "chapter": "维生素",
+    "subcategory": "水溶性维生素",
+    "sortOrder": 230,
+    "mechanism": "转化为磷酸吡哆醛（PLP）作为氨基酸转氨酶、脱羧酶及消旋酶辅酶"
+  },
+  {
+    "id": "101",
+    "name": "雷尼替丁",
+    "smiles": "CN/C(=C\\[N+](=O)[O-])/NCCSCC1=CC=C(O1)CN(C)C",
+    "structure": "assets/structures/101.svg",
+    "chapter": "消化系统药物",
+    "category": "消化系统药物 · 组胺 H2 受体拮抗剂",
+    "aliases": [
+      "ranitidine",
+      "H2RA"
+    ],
+    "subcategory": "组胺 H2 受体拮抗剂",
+    "sortOrder": 98,
+    "mechanism": "竞争性拮抗胃壁细胞组胺 H2 受体抑制胃酸分泌（呋喃类）"
+  },
+  {
+    "id": "102",
+    "name": "法莫替丁",
+    "smiles": "C1=C(N=C(S1)N=C(N)N)CSCC/C(=N/S(=O)(=O)N)/N",
+    "structure": "assets/structures/102.svg",
+    "chapter": "消化系统药物",
+    "category": "消化系统药物 · 组胺 H2 受体拮抗剂",
+    "aliases": [
+      "famotidine"
+    ],
+    "subcategory": "组胺 H2 受体拮抗剂",
+    "sortOrder": 99,
+    "mechanism": "强效竞争性拮抗胃壁细胞组胺 H2 受体抑制胃酸分泌（噻唑类）"
+  },
+  {
+    "id": "103",
+    "name": "兰索拉唑",
+    "smiles": "CC1=C(C=CN=C1CS(=O)C2=NC3=CC=CC=C3N2)OCC(F)(F)F",
+    "structure": "assets/structures/103.svg",
+    "chapter": "消化系统药物",
+    "category": "消化系统药物 · 质子泵抑制剂",
+    "aliases": [
+      "lansoprazole",
+      "PPI"
+    ],
+    "subcategory": "质子泵抑制剂",
+    "sortOrder": 101,
+    "mechanism": "酸活化后共价结合并不可逆抑制胃壁细胞 H+/K+-ATP 酶（质子泵）"
+  },
+  {
+    "id": "104",
+    "name": "泮托拉唑",
+    "smiles": "COC1=C(C(=NC=C1)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC(F)F)OC",
+    "structure": "assets/structures/104.svg",
+    "chapter": "消化系统药物",
+    "category": "消化系统药物 · 质子泵抑制剂",
+    "aliases": [
+      "pantoprazole",
+      "PPI"
+    ],
+    "subcategory": "质子泵抑制剂",
+    "sortOrder": 102,
+    "mechanism": "酸活化后不可逆抑制胃壁细胞 H+/K+-ATP 酶（质子泵）"
+  },
+  {
+    "id": "105",
+    "name": "昂丹司琼",
+    "smiles": "CC1=NC=CN1CC2CCC3=C(C2=O)C4=CC=CC=C4N3C",
+    "structure": "assets/structures/105.svg",
+    "chapter": "消化系统药物",
+    "category": "消化系统药物 · 5-HT3 受体拮抗类止吐药",
+    "aliases": [
+      "ondansetron",
+      "恩丹西酮"
+    ],
+    "subcategory": "5-HT3 受体拮抗类止吐药",
+    "sortOrder": 109,
+    "mechanism": "高选择性拮抗外周迷走神经与中枢催吐化学感受区 5-HT3 受体"
+  },
+  {
+    "id": "106",
+    "name": "甲氧氯普胺",
+    "smiles": "CCN(CC)CCNC(=O)C1=CC(=C(C=C1OC)N)Cl",
+    "structure": "assets/structures/106.svg",
+    "chapter": "消化系统药物",
+    "category": "消化系统药物 · 促胃肠动力药",
+    "aliases": [
+      "metoclopramide",
+      "胃复安"
+    ],
+    "subcategory": "促胃肠动力药",
+    "sortOrder": 104,
+    "mechanism": "阻断中枢与胃肠多巴胺 D2 受体并激动胃肠 5-HT4 受体"
+  },
+  {
+    "id": "107",
+    "name": "多潘立酮",
+    "smiles": "C1CN(CCC1N2C3=C(C=C(C=C3)Cl)NC2=O)CCCN4C5=CC=CC=C5NC4=O",
+    "structure": "assets/structures/107.svg",
+    "chapter": "消化系统药物",
+    "category": "消化系统药物 · 促胃肠动力药",
+    "aliases": [
+      "domperidone",
+      "吗丁啉"
+    ],
+    "subcategory": "促胃肠动力药",
+    "sortOrder": 105,
+    "mechanism": "选择性阻断外周多巴胺 D2 受体促进上消化道蠕动与排空"
+  },
+  {
+    "id": "108",
+    "name": "吡罗昔康",
+    "smiles": "CN1C(=C(C2=CC=CC=C2S1(=O)=O)O)C(=O)NC3=CC=CC=N3",
+    "structure": "assets/structures/108.svg",
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 昔康类非甾体抗炎药",
+    "aliases": [
+      "piroxicam"
+    ],
+    "subcategory": "昔康类非甾体抗炎药",
+    "sortOrder": 121,
+    "mechanism": "长效可逆抑制环氧合酶（COX）阻断前列腺素合成"
+  },
+  {
+    "id": "109",
+    "name": "美洛昔康",
+    "smiles": "CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O",
+    "structure": "assets/structures/109.svg",
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 昔康类非甾体抗炎药",
+    "aliases": [
+      "meloxicam"
+    ],
+    "subcategory": "昔康类非甾体抗炎药",
+    "sortOrder": 122,
+    "mechanism": "优先选择性抑制诱导型环氧合酶-2（COX-2）"
+  },
+  {
+    "id": "110",
+    "name": "塞来昔布",
+    "smiles": "CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F",
+    "structure": "assets/structures/110.svg",
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 选择性 COX-2 抑制剂（昔布类）",
+    "aliases": [
+      "celecoxib",
+      "COX-2 抑制剂"
+    ],
+    "subcategory": "选择性 COX-2 抑制剂（昔布类）",
+    "sortOrder": 123,
+    "mechanism": "高选择性抑制环氧合酶-2（COX-2）抗炎镇痛并降低胃肠溃疡风险"
+  },
+  {
+    "id": "111",
+    "name": "舒林酸",
+    "smiles": "CC\\1=C(C2=C(/C1=C\\C3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O",
+    "structure": "assets/structures/111.svg",
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 芳基乙酸与吲哚乙酸类非甾体抗炎药",
+    "aliases": [
+      "sulindac"
+    ],
+    "subcategory": "芳基乙酸与吲哚乙酸类非甾体抗炎药",
+    "sortOrder": 117,
+    "mechanism": "亚砜前药在体内还原为硫醚活性代谢物抑制环氧合酶（COX）"
+  },
+  {
+    "id": "112",
+    "name": "贝诺酯",
+    "smiles": "CC(=O)NC1=CC=C(C=C1)OC(=O)C2=CC=CC=C2OC(=O)C",
+    "structure": "assets/structures/112.svg",
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 水杨酸类解热镇痛抗炎药",
+    "aliases": [
+      "benorilate"
+    ],
+    "subcategory": "水杨酸类解热镇痛抗炎药",
+    "sortOrder": 112,
+    "mechanism": "拼合原理前药：体内水解为阿司匹林与对乙酰氨基酚协同抑制环氧合酶"
+  },
+  {
+    "id": "113",
+    "name": "秋水仙碱",
+    "smiles": "CC(=O)N[C@H]1CCC2=CC(=C(C(=C2C3=CC=C(C(=O)C=C13)OC)OC)OC)OC",
+    "structure": "assets/structures/113.svg",
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 急性痛风抗炎药",
+    "aliases": [
+      "colchicine"
+    ],
+    "subcategory": "急性痛风抗炎药",
+    "sortOrder": 127,
+    "mechanism": "结合微管蛋白阻止微管聚合抑制中性粒细胞向关节趋化与浸润"
+  },
+  {
+    "id": "114",
+    "name": "丙磺舒",
+    "smiles": "CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O",
+    "structure": "assets/structures/114.svg",
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 促尿酸排泄类抗痛风药",
+    "aliases": [
+      "probenecid"
+    ],
+    "subcategory": "促尿酸排泄类抗痛风药",
+    "sortOrder": 128,
+    "mechanism": "竞争性抑制肾近曲小管尿酸盐转运体（URAT1）减少尿酸重吸收"
+  },
+  {
+    "id": "115",
+    "name": "青霉素 V",
+    "smiles": "CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)COC3=CC=CC=C3)C(=O)O)C",
+    "structure": "assets/structures/115.svg",
+    "chapter": "抗生素",
+    "category": "抗生素 · 青霉素类抗生素",
+    "aliases": [
+      "青霉素V",
+      "苯氧甲基青霉素",
+      "phenoxymethylpenicillin",
+      "penicillin V"
+    ],
+    "subcategory": "青霉素类抗生素",
+    "sortOrder": 148,
+    "mechanism": "结合细菌 PBPs 抑制细胞壁黏肽合成（苯氧甲基侧链耐胃酸可口服）"
+  },
+  {
+    "id": "116",
+    "name": "苯唑西林",
+    "smiles": "CC1=C(C(=NO1)C2=CC=CC=C2)C(=O)N[C@H]3[C@@H]4N(C3=O)[C@H](C(S4)(C)C)C(=O)O",
+    "structure": "assets/structures/116.svg",
+    "chapter": "抗生素",
+    "category": "抗生素 · 青霉素类抗生素",
+    "aliases": [
+      "oxacillin",
+      "苯唑西林钠",
+      "oxacillin sodium"
+    ],
+    "subcategory": "青霉素类抗生素",
+    "sortOrder": 149,
+    "mechanism": "结合细菌 PBPs 抑制细胞壁合成（异噁唑立体位阻耐金葡菌青霉素酶）"
+  },
+  {
+    "id": "117",
+    "name": "哌拉西林",
+    "smiles": "CCN1CCN(C(=O)C1=O)C(=O)N[C@H](C2=CC=CC=C2)C(=O)N[C@H]3[C@@H]4N(C3=O)[C@H](C(S4)(C)C)C(=O)O",
+    "structure": "assets/structures/117.svg",
+    "chapter": "抗生素",
+    "category": "抗生素 · 青霉素类抗生素",
+    "aliases": [
+      "piperacillin"
+    ],
+    "subcategory": "青霉素类抗生素",
+    "sortOrder": 152,
+    "mechanism": "结合细菌 PBPs 抑制细胞壁合成（哌嗪二酮侧链具抗铜绿假单胞菌活性）"
+  },
+  {
+    "id": "118",
+    "name": "头孢噻肟",
+    "smiles": "CC(=O)OCC1=C(N2[C@@H]([C@@H](C2=O)NC(=O)/C(=N\\OC)/C3=CSC(=N3)N)SC1)C(=O)O",
+    "structure": "assets/structures/118.svg",
+    "chapter": "抗生素",
+    "category": "抗生素 · 头孢菌素类抗生素",
+    "aliases": [
+      "cefotaxime",
+      "头孢噻肟钠",
+      "cefotaxime sodium"
+    ],
+    "subcategory": "头孢菌素类抗生素",
+    "sortOrder": 155,
+    "mechanism": "结合细菌 PBPs 抑制细胞壁合成（第三代广谱头孢菌素，氨基噻唑甲氧肟侧链）"
+  },
+  {
+    "id": "119",
+    "name": "头孢曲松",
+    "smiles": "CN1C(=NC(=O)C(=O)N1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)/C(=N\\OC)/C4=CSC(=N4)N)SC2)C(=O)O",
+    "structure": "assets/structures/119.svg",
+    "chapter": "抗生素",
+    "category": "抗生素 · 头孢菌素类抗生素",
+    "aliases": [
+      "ceftriaxone"
+    ],
+    "subcategory": "头孢菌素类抗生素",
+    "sortOrder": 156,
+    "mechanism": "结合细菌 PBPs 抑制细胞壁合成（长效第三代头孢菌素，可透过血脑屏障）"
+  },
+  {
+    "id": "120",
+    "name": "克拉维酸",
+    "smiles": "C1[C@@H]2N(C1=O)[C@H](/C(=C/CO)/O2)C(=O)O",
+    "structure": "assets/structures/120.svg",
+    "chapter": "抗生素",
+    "category": "抗生素 · β-内酰胺酶抑制剂",
+    "aliases": [
+      "clavulanic acid",
+      "克拉维酸钾",
+      "clavulanate potassium"
+    ],
+    "subcategory": "β-内酰胺酶抑制剂",
+    "sortOrder": 158,
+    "mechanism": "自杀性不可逆抑制细菌丝氨酸 β-内酰胺酶（氧青霉烷类抗菌增效剂）"
+  },
+  {
+    "id": "121",
+    "name": "舒巴坦",
+    "smiles": "CC1([C@@H](N2[C@H](S1(=O)=O)CC2=O)C(=O)O)C",
+    "structure": "assets/structures/121.svg",
+    "chapter": "抗生素",
+    "category": "抗生素 · β-内酰胺酶抑制剂",
+    "aliases": [
+      "sulbactam"
+    ],
+    "subcategory": "β-内酰胺酶抑制剂",
+    "sortOrder": 159,
+    "mechanism": "不可逆抑制细菌 β-内酰胺酶保护合用青霉素/头孢菌素免遭水解（青霉烷砜类）"
+  },
+  {
+    "id": "122",
+    "name": "亚胺培南",
+    "smiles": "C[C@H]([C@@H]1[C@H]2CC(=C(N2C1=O)C(=O)O)SCCN=CN)O",
+    "structure": "assets/structures/122.svg",
+    "chapter": "抗生素",
+    "category": "抗生素 · 碳青霉烯及单环 β-内酰胺类",
+    "aliases": [
+      "imipenem"
+    ],
+    "subcategory": "碳青霉烯及单环 β-内酰胺类",
+    "sortOrder": 160,
+    "mechanism": "高亲和力结合多种 PBPs 抑制细胞壁合成（碳青霉烯类，耐大多数 β-内酰胺酶）"
+  },
+  {
+    "id": "123",
+    "name": "氨曲南",
+    "smiles": "C[C@H]1[C@@H](C(=O)N1S(=O)(=O)O)NC(=O)/C(=N\\OC(C)(C)C(=O)O)/C2=CSC(=N2)N",
+    "structure": "assets/structures/123.svg",
+    "chapter": "抗生素",
+    "category": "抗生素 · 碳青霉烯及单环 β-内酰胺类",
+    "aliases": [
+      "aztreonam"
+    ],
+    "subcategory": "碳青霉烯及单环 β-内酰胺类",
+    "sortOrder": 161,
+    "mechanism": "高选择性结合需氧革兰阴性菌 PBP3 抑制细胞壁分裂合成（单环 β-内酰胺类）"
+  },
+  {
+    "id": "124",
+    "name": "多西环素",
+    "smiles": "C[C@@H]1[C@H]2[C@@H]([C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O",
+    "structure": "assets/structures/124.svg",
+    "chapter": "抗生素",
+    "category": "抗生素 · 四环素类抗生素",
+    "aliases": [
+      "doxycycline"
+    ],
+    "subcategory": "四环素类抗生素",
+    "sortOrder": 163,
+    "mechanism": "结合细菌核糖体 30S 亚基阻断肽链延伸抑制细菌蛋白质合成"
+  },
+  {
+    "id": "125",
+    "name": "罗红霉素",
+    "smiles": "CC[C@@H]1[C@@]([C@@H]([C@H](/C(=N/OCOCCOC)/[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O",
+    "structure": "assets/structures/125.svg",
+    "chapter": "抗生素",
+    "category": "抗生素 · 大环内酯类抗生素",
+    "aliases": [
+      "roxithromycin"
+    ],
+    "subcategory": "大环内酯类抗生素",
+    "sortOrder": 165,
+    "mechanism": "结合细菌核糖体 50S 亚基抑制蛋白质合成（9-肟醚修饰耐胃酸）"
+  },
+  {
+    "id": "126",
+    "name": "克林霉素",
+    "smiles": "CCC[C@@H]1C[C@H](N(C1)C)C(=O)N[C@@H]([C@@H]2[C@@H]([C@@H]([C@H]([C@H](O2)SC)O)O)O)[C@H](C)Cl",
+    "structure": "assets/structures/126.svg",
+    "chapter": "抗生素",
+    "category": "抗生素 · 林可霉素类抗生素",
+    "aliases": [
+      "clindamycin"
+    ],
+    "subcategory": "林可霉素类抗生素",
+    "sortOrder": 169,
+    "mechanism": "结合细菌核糖体 50S 亚基抑制肽酰转移酶阻断细菌蛋白质合成"
+  },
+  {
+    "id": "127",
+    "name": "青蒿素",
+    "smiles": "C[C@@H]1CC[C@H]2[C@H](C(=O)O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)C",
+    "structure": "assets/structures/127.svg",
+    "chapter": "抗寄生虫药",
+    "category": "抗寄生虫药 · 倍半萜内酯过氧化物类抗疟药",
+    "aliases": [
+      "artemisinin"
+    ],
+    "subcategory": "倍半萜内酯过氧化物类抗疟药",
+    "sortOrder": 199,
+    "mechanism": "过氧桥被红细胞内疟原虫血红素铁催化裂解产自由基烷化虫体蛋白质与膜"
+  },
+  {
+    "id": "128",
+    "name": "氯喹",
+    "smiles": "CCN(CC)CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl",
+    "structure": "assets/structures/128.svg",
+    "chapter": "抗寄生虫药",
+    "category": "抗寄生虫药 · 喹啉类抗疟药",
+    "aliases": [
+      "chloroquine"
+    ],
+    "subcategory": "喹啉类抗疟药",
+    "sortOrder": 201,
+    "mechanism": "浓集于疟原虫酸性食物泡抑制血红素聚合毒杀红细胞内期裂殖体（4-氨基喹啉类）"
+  },
+  {
+    "id": "129",
+    "name": "伯氨喹",
+    "smiles": "CC(CCCN)NC1=C2C(=CC(=C1)OC)C=CC=N2",
+    "structure": "assets/structures/129.svg",
+    "chapter": "抗寄生虫药",
+    "category": "抗寄生虫药 · 喹啉类抗疟药",
+    "aliases": [
+      "primaquine"
+    ],
+    "subcategory": "喹啉类抗疟药",
+    "sortOrder": 202,
+    "mechanism": "氧化代谢物破坏肝细胞红外期与配子体疟原虫线粒体防复发与传播（8-氨基喹啉类）"
+  },
+  {
+    "id": "130",
+    "name": "甲硝唑",
+    "smiles": "CC1=NC=C(N1CCO)[N+](=O)[O-]",
+    "structure": "assets/structures/130.svg",
+    "chapter": "抗寄生虫药",
+    "category": "抗寄生虫药 · 硝基咪唑类抗原虫药",
+    "aliases": [
+      "metronidazole",
+      "灭滴灵"
+    ],
+    "subcategory": "硝基咪唑类抗原虫药",
+    "sortOrder": 203,
+    "mechanism": "无氧条件下硝基还原生成细胞毒自由基断裂阿米巴原虫、滴虫及厌氧菌 DNA"
+  },
+  {
+    "id": "131",
+    "name": "替硝唑",
+    "smiles": "CCS(=O)(=O)CCN1C(=NC=C1[N+](=O)[O-])C",
+    "structure": "assets/structures/131.svg",
+    "chapter": "抗寄生虫药",
+    "category": "抗寄生虫药 · 硝基咪唑类抗原虫药",
+    "aliases": [
+      "tinidazole"
+    ],
+    "subcategory": "硝基咪唑类抗原虫药",
+    "sortOrder": 204,
+    "mechanism": "厌氧还原产生活性硝基自由基破坏原虫及专性厌氧菌 DNA 双螺旋"
+  },
+  {
+    "id": "132",
+    "name": "阿苯达唑",
+    "smiles": "CCCSC1=CC2=C(C=C1)N=C(N2)NC(=O)OC",
+    "structure": "assets/structures/132.svg",
+    "chapter": "抗寄生虫药",
+    "category": "抗寄生虫药 · 苯并咪唑类驱肠虫药",
+    "aliases": [
+      "albendazole"
+    ],
+    "subcategory": "苯并咪唑类驱肠虫药",
+    "sortOrder": 205,
+    "mechanism": "选择性结合线虫 β-微管蛋白阻止微管聚合抑制虫体摄取葡萄糖致糖原耗竭"
+  },
+  {
+    "id": "133",
+    "name": "吡喹酮",
+    "smiles": "C1CCC(CC1)C(=O)N2CC3C4=CC=CC=C4CCN3C(=O)C2",
+    "structure": "assets/structures/133.svg",
+    "chapter": "抗寄生虫药",
+    "category": "抗寄生虫药 · 吡嗪并异喹啉类抗血吸虫药",
+    "aliases": [
+      "praziquantel"
+    ],
+    "subcategory": "吡嗪并异喹啉类抗血吸虫药",
+    "sortOrder": 206,
+    "mechanism": "迅速增加血吸虫体表膜对 Ca2+ 通透性引起虫体剧烈痉挛麻痹与皮层空泡破损"
+  },
+  {
+    "id": "134",
+    "name": "莫西沙星",
+    "smiles": "COC1=C2C(=CC(=C1N3C[C@@H]4CCCN[C@@H]4C3)F)C(=O)C(=CN2C5CC5)C(=O)O",
+    "structure": "assets/structures/134.svg",
+    "chapter": "合成抗菌药",
+    "category": "合成抗菌药 · 氟喹诺酮类抗菌药（第三、四代）",
+    "aliases": [
+      "moxifloxacin"
+    ],
+    "subcategory": "氟喹诺酮类抗菌药（第三、四代）",
+    "sortOrder": 175,
+    "mechanism": "双重抑制细菌 DNA 促旋酶与拓扑异构酶 Ⅳ（第四代广谱抗革兰阳性及厌氧菌）"
+  },
+  {
+    "id": "135",
+    "name": "吡嗪酰胺",
+    "smiles": "C1=CN=C(C=N1)C(=O)N",
+    "structure": "assets/structures/135.svg",
+    "chapter": "抗结核药",
+    "category": "抗结核药 · 吡嗪甲酰胺类抗结核药",
+    "aliases": [
+      "pyrazinamide",
+      "PZA"
+    ],
+    "subcategory": "吡嗪甲酰胺类抗结核药",
+    "sortOrder": 183,
+    "mechanism": "经结核菌吡嗪酰胺酶转化为吡嗪酸破坏菌体膜能量代谢与酸化胞内环境"
+  },
+  {
+    "id": "136",
+    "name": "伊曲康唑",
+    "smiles": "CCC(C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OC[C@H]5CO[C@](O5)(CN6C=NC=N6)C7=C(C=C(C=C7)Cl)Cl |&1:30,33|",
+    "structure": "assets/structures/136.svg",
+    "chapter": "抗真菌药",
+    "category": "抗真菌药 · 三唑类抗真菌药",
+    "aliases": [
+      "itraconazole"
+    ],
+    "subcategory": "三唑类抗真菌药",
+    "sortOrder": 189,
+    "mechanism": "高选择性抑制真菌羊毛甾醇 14α-去甲基化酶（CYP51）阻断麦角甾醇合成"
+  },
+  {
+    "id": "137",
+    "name": "特比萘芬",
+    "smiles": "CC(C)(C)C#C/C=C/CN(C)CC1=CC=CC2=CC=CC=C21",
+    "structure": "assets/structures/137.svg",
+    "chapter": "抗真菌药",
+    "category": "抗真菌药 · 烯丙胺类抗真菌药",
+    "aliases": [
+      "terbinafine"
+    ],
+    "subcategory": "烯丙胺类抗真菌药",
+    "sortOrder": 190,
+    "mechanism": "非竞争性抑制真菌角鲨烯环氧化酶使角鲨烯蓄积并阻断麦角甾醇合成"
+  },
+  {
+    "id": "138",
+    "name": "更昔洛韦",
+    "smiles": "C1=NC2=C(N1COC(CO)CO)N=C(NC2=O)N",
+    "structure": "assets/structures/138.svg",
+    "chapter": "抗病毒药",
+    "category": "抗病毒药 · 开环核苷类抗疱疹病毒药",
+    "aliases": [
+      "ganciclovir"
+    ],
+    "subcategory": "开环核苷类抗疱疹病毒药",
+    "sortOrder": 192,
+    "mechanism": "三磷酸化后竞争抑制巨细胞病毒与疱疹病毒 DNA 聚合酶阻断病毒复制"
+  },
+  {
+    "id": "139",
+    "name": "奥司他韦",
+    "smiles": "CCC(CC)O[C@@H]1C=C(C[C@@H]([C@H]1NC(=O)C)N)C(=O)OCC",
+    "structure": "assets/structures/139.svg",
+    "chapter": "抗病毒药",
+    "category": "抗病毒药 · 神经氨酸酶抑制类抗流感药",
+    "aliases": [
+      "oseltamivir",
+      "达菲"
+    ],
+    "subcategory": "神经氨酸酶抑制类抗流感药",
+    "sortOrder": 198,
+    "mechanism": "乙酯前药水解后竞争性抑制甲/乙型流感病毒神经氨酸酶阻止子代病毒释放"
+  },
+  {
+    "id": "140",
+    "name": "利巴韦林",
+    "smiles": "C1=NC(=NN1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)C(=O)N",
+    "structure": "assets/structures/140.svg",
+    "chapter": "抗病毒药",
+    "category": "抗病毒药 · 广谱三氮唑核苷类抗病毒药",
+    "aliases": [
+      "ribavirin",
+      "病毒唑"
+    ],
+    "subcategory": "广谱三氮唑核苷类抗病毒药",
+    "sortOrder": 193,
+    "mechanism": "单磷酸物抑制宿主肌苷单磷酸脱氢酶（IMPDH）耗竭鸟苷酸池阻断病毒核酸合成"
+  },
+  {
+    "id": "141",
+    "name": "呋喃妥因",
+    "smiles": "C1C(=O)NC(=O)N1/N=C/C2=CC=C(O2)[N+](=O)[O-]",
+    "structure": "assets/structures/141.svg",
+    "chapter": "合成抗菌药",
+    "category": "合成抗菌药 · 硝基呋喃类抗菌药",
+    "aliases": [
+      "nitrofurantoin"
+    ],
+    "subcategory": "硝基呋喃类抗菌药",
+    "sortOrder": 180,
+    "mechanism": "经细菌硝基还原酶还原生成活性中间体损伤细菌 DNA、RNA 与呼吸酶"
+  },
+  {
+    "id": "142",
+    "name": "艾司唑仑",
+    "smiles": "C1C2=NN=CN2C3=C(C=C(C=C3)Cl)C(=N1)C4=CC=CC=C4",
+    "structure": "assets/structures/142.svg",
+    "chapter": "镇静催眠药与抗癫痫药",
+    "category": "镇静催眠药与抗癫痫药 · 苯二氮䓬类镇静催眠药",
+    "aliases": [
+      "estazolam",
+      "舒乐安定"
+    ],
+    "subcategory": "苯二氮䓬类镇静催眠药",
+    "sortOrder": 3,
+    "mechanism": "GABAA 受体苯二氮䓬位点正向变构调节剂（三唑并环）"
+  },
+  {
+    "id": "143",
+    "name": "唑吡坦",
+    "smiles": "CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C",
+    "structure": "assets/structures/143.svg",
+    "chapter": "镇静催眠药与抗癫痫药",
+    "category": "镇静催眠药与抗癫痫药 · 非苯二氮䓬类镇静催眠药",
+    "aliases": [
+      "zolpidem",
+      "思诺思"
+    ],
+    "subcategory": "非苯二氮䓬类镇静催眠药",
+    "sortOrder": 5,
+    "mechanism": "选择性 GABAA 受体 α1 亚基（ω1 位点）激动剂"
+  },
+  {
+    "id": "144",
+    "name": "氯氮平",
+    "smiles": "CN1CCN(CC1)C2=NC3=C(C=CC(=C3)Cl)NC4=CC=CC=C42",
+    "structure": "assets/structures/144.svg",
+    "chapter": "抗精神病药",
+    "category": "抗精神病药 · 二苯并二氮䓬类抗精神病药",
+    "aliases": [
+      "clozapine"
+    ],
+    "subcategory": "二苯并二氮䓬类抗精神病药",
+    "sortOrder": 19,
+    "mechanism": "5-HT2A 与多巴胺 D4 受体多靶点拮抗剂（非典型抗精神病药）"
+  },
+  {
+    "id": "145",
+    "name": "利培酮",
+    "smiles": "CC1=C(C(=O)N2CCCCC2=N1)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F",
+    "structure": "assets/structures/145.svg",
+    "chapter": "抗精神病药",
+    "category": "抗精神病药 · 苯并异噁唑类抗精神病药",
+    "aliases": [
+      "risperidone"
+    ],
+    "subcategory": "苯并异噁唑类抗精神病药",
+    "sortOrder": 21,
+    "mechanism": "5-HT2A 与多巴胺 D2 受体双重拮抗剂（非典型抗精神病药）"
+  },
+  {
+    "id": "146",
+    "name": "文拉法辛",
+    "smiles": "CN(C)CC(C1=CC=C(C=C1)OC)C2(CCCCC2)O",
+    "structure": "assets/structures/146.svg",
+    "chapter": "抗抑郁药",
+    "category": "抗抑郁药 · 5-HT 与 NE 双重再摄取抑制剂",
+    "aliases": [
+      "venlafaxine"
+    ],
+    "subcategory": "5-HT 与 NE 双重再摄取抑制剂",
+    "sortOrder": 25,
+    "mechanism": "双重抑制 5-羟色胺（5-HT）与去甲肾上腺素（NE）再摄取"
+  },
+  {
+    "id": "147",
+    "name": "丙泊酚",
+    "smiles": "CC(C)C1=C(C(=CC=C1)C(C)C)O",
+    "structure": "assets/structures/147.svg",
+    "chapter": "神经退行性疾病、麻醉与中枢兴奋药",
+    "category": "神经退行性疾病、麻醉与中枢兴奋药 · 静脉全身麻醉药",
+    "aliases": [
+      "propofol"
+    ],
+    "subcategory": "静脉全身麻醉药",
+    "sortOrder": 40,
+    "mechanism": "中枢 GABAA 受体正向变构调节剂（增强氯离子内流）"
+  },
+  {
+    "id": "148",
+    "name": "芬太尼",
+    "smiles": "CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3",
+    "structure": "assets/structures/148.svg",
+    "chapter": "镇痛药",
+    "category": "镇痛药 · 哌啶类合成镇痛药",
+    "aliases": [
+      "fentanyl"
+    ],
+    "subcategory": "哌啶类合成镇痛药",
+    "sortOrder": 29,
+    "mechanism": "高亲和力选择性 μ 阿片受体强效激动剂"
+  },
+  {
+    "id": "149",
+    "name": "纳洛酮",
+    "smiles": "C=CCN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)O)O4)O",
+    "structure": "assets/structures/149.svg",
+    "chapter": "镇痛药",
+    "category": "镇痛药 · 吗啡烷类阿片受体拮抗剂",
+    "aliases": [
+      "naloxone"
+    ],
+    "subcategory": "吗啡烷类阿片受体拮抗剂",
+    "sortOrder": 33,
+    "mechanism": "竞争性阿片受体（μ / κ / δ）纯粹拮抗剂"
+  },
+  {
+    "id": "150",
+    "name": "布比卡因",
+    "smiles": "CCCCN1CCCCC1C(=O)NC2=C(C=CC=C2C)C",
+    "structure": "assets/structures/150.svg",
+    "chapter": "神经退行性疾病、麻醉与中枢兴奋药",
+    "category": "神经退行性疾病、麻醉与中枢兴奋药 · 酰胺类局部麻醉药",
+    "aliases": [
+      "bupivacaine"
+    ],
+    "subcategory": "酰胺类局部麻醉药",
+    "sortOrder": 43,
+    "mechanism": "长效阻滞外周神经电压门控钠通道"
+  },
+  {
+    "id": "151",
+    "name": "格列吡嗪",
+    "smiles": "CC1=CN=C(C=N1)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3",
+    "structure": "assets/structures/151.svg",
+    "chapter": "降血糖药",
+    "category": "降血糖药 · 磺酰脲类促胰岛素分泌药",
+    "aliases": [
+      "glipizide",
+      "美吡达"
+    ],
+    "subcategory": "磺酰脲类促胰岛素分泌药",
+    "sortOrder": 209,
+    "mechanism": "阻滞胰岛 β 细胞膜 ATP 敏感钾通道（KATP）刺激胰岛素释放"
+  },
+  {
+    "id": "152",
+    "name": "西替利嗪",
+    "smiles": "C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl",
+    "structure": "assets/structures/152.svg",
+    "chapter": "抗过敏药",
+    "category": "抗过敏药 · 第二代 H1 受体拮抗剂",
+    "aliases": [
+      "cetirizine"
+    ],
+    "subcategory": "第二代 H1 受体拮抗剂",
+    "sortOrder": 61,
+    "mechanism": "高选择性拮抗外周组胺 H1 受体（哌嗪羧酸两性离子难入脑）"
+  },
+  {
+    "id": "153",
+    "name": "氯雷他定",
+    "smiles": "CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1",
+    "structure": "assets/structures/153.svg",
+    "chapter": "抗过敏药",
+    "category": "抗过敏药 · 第二代 H1 受体拮抗剂",
+    "aliases": [
+      "loratadine"
+    ],
+    "subcategory": "第二代 H1 受体拮抗剂",
+    "sortOrder": 62,
+    "mechanism": "长效选择性外周组胺 H1 受体拮抗剂（三环氮杂䓬类）"
+  },
+  {
+    "id": "154",
+    "name": "维拉帕米",
+    "smiles": "CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC",
+    "structure": "assets/structures/154.svg",
+    "chapter": "抗高血压药",
+    "category": "抗高血压药 · 非二氢吡啶类钙通道阻滞剂",
+    "aliases": [
+      "verapamil"
+    ],
+    "subcategory": "非二氢吡啶类钙通道阻滞剂",
+    "sortOrder": 67,
+    "mechanism": "阻滞心肌与血管 L 型钙通道（芳烷基胺类，兼 Ⅳ 类抗心律失常）"
+  },
+  {
+    "id": "155",
+    "name": "地尔硫䓬",
+    "smiles": "CC(=O)O[C@@H]1[C@@H](SC2=CC=CC=C2N(C1=O)CCN(C)C)C3=CC=C(C=C3)OC",
+    "structure": "assets/structures/155.svg",
+    "chapter": "抗高血压药",
+    "category": "抗高血压药 · 非二氢吡啶类钙通道阻滞剂",
+    "aliases": [
+      "diltiazem",
+      "地尔硫卓"
+    ],
+    "subcategory": "非二氢吡啶类钙通道阻滞剂",
+    "sortOrder": 68,
+    "mechanism": "阻滞心肌与血管 L 型钙通道（苯并硫氮䓬类，扩张冠脉减慢心率）"
+  },
+  {
+    "id": "156",
+    "name": "维生素 B1",
+    "smiles": "CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO",
+    "structure": "assets/structures/156.svg",
+    "chapter": "维生素",
+    "category": "维生素 · 水溶性维生素",
+    "aliases": [
+      "thiamine",
+      "硫胺素",
+      "VB1"
+    ],
+    "subcategory": "水溶性维生素",
+    "sortOrder": 228,
+    "mechanism": "转化为焦磷酸硫胺素（TPP）作为 α-酮酸氧化脱羧酶与转酮醇酶辅酶参与糖代谢"
+  },
+  {
+    "id": "157",
+    "name": "维生素 B2",
+    "smiles": "CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)C[C@@H]([C@@H]([C@@H](CO)O)O)O",
+    "structure": "assets/structures/157.svg",
+    "chapter": "维生素",
+    "category": "维生素 · 水溶性维生素",
+    "aliases": [
+      "riboflavin",
+      "核黄素",
+      "VB2"
+    ],
+    "subcategory": "水溶性维生素",
+    "sortOrder": 229,
+    "mechanism": "转化为黄素单核苷酸（FMN）与黄素腺嘌呤二核苷酸（FAD）充当氧化还原递氢辅基"
+  },
+  {
+    "id": "158",
+    "name": "维生素 K3",
+    "smiles": "CC1=CC(=O)C2=CC=CC=C2C1=O",
+    "structure": "assets/structures/158.svg",
+    "chapter": "维生素",
+    "category": "维生素 · 脂溶性维生素",
+    "aliases": [
+      "menadione",
+      "甲萘醌",
+      "VK3"
+    ],
+    "subcategory": "脂溶性维生素",
+    "sortOrder": 227,
+    "mechanism": "作为肝脏 γ-谷氨酰羧化酶辅因子催化凝血因子 Ⅱ、Ⅶ、Ⅸ、Ⅹ 谷氨酸残基羧化活化"
+  },
+  {
+    "id": "159",
+    "name": "叶酸",
+    "smiles": "C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N",
+    "structure": "assets/structures/159.svg",
+    "chapter": "维生素",
+    "category": "维生素 · 水溶性维生素",
+    "aliases": [
+      "folic acid",
+      "维生素B9",
+      "蝶酰谷氨酸"
+    ],
+    "subcategory": "水溶性维生素",
+    "sortOrder": 232,
+    "mechanism": "经二氢叶酸还原酶还原为四氢叶酸充当一碳单位载体参与嘌呤与胸苷酸生物合成"
+  },
+  {
+    "id": "160",
+    "name": "吉西他滨",
+    "smiles": "C1=CN(C(=O)N=C1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F",
+    "structure": "assets/structures/160.svg",
+    "chapter": "抗肿瘤药",
+    "category": "抗肿瘤药 · 嘧啶类抗代谢药",
+    "aliases": [
+      "gemcitabine",
+      "健择"
+    ],
+    "subcategory": "嘧啶类抗代谢药",
+    "sortOrder": 138,
+    "mechanism": "二磷酸物抑制核糖核苷酸还原酶（RNR），三磷酸物掺入 DNA 阻断延伸"
+  },
+  {
+    "id": "161",
+    "name": "咪达唑仑",
+    "smiles": "CC1=NC=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4F",
+    "structure": "assets/structures/161.svg",
+    "chapter": "镇静催眠药与抗癫痫药",
+    "category": "镇静催眠药与抗癫痫药 · 苯二氮䓬类镇静催眠药",
+    "aliases": [
+      "咪达唑仑片",
+      "Midazolam"
+    ],
+    "subcategory": "苯二氮䓬类镇静催眠药",
+    "sortOrder": 4,
+    "mechanism": "GABAA 受体苯二氮䓬位点正向变构调节剂（咪唑并环）"
+  },
+  {
+    "id": "162",
+    "name": "佐匹克隆",
+    "smiles": "CN1CCN(CC1)C(=O)OC2C3=NC=CN=C3C(=O)N2C4=NC=C(C=C4)Cl",
+    "structure": "assets/structures/162.svg",
+    "chapter": "镇静催眠药与抗癫痫药",
+    "category": "镇静催眠药与抗癫痫药 · 非苯二氮䓬类镇静催眠药",
+    "aliases": [
+      "佐匹克隆片",
+      "Zopiclone",
+      "Imovane"
+    ],
+    "subcategory": "非苯二氮䓬类镇静催眠药",
+    "sortOrder": 6,
+    "mechanism": "GABAA 受体复合物苯二氮䓬位点激动剂"
+  },
+  {
+    "id": "163",
+    "name": "奥沙西泮",
+    "smiles": "C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O",
+    "structure": "assets/structures/163.svg",
+    "chapter": "镇静催眠药与抗癫痫药",
+    "category": "镇静催眠药与抗癫痫药 · 苯二氮䓬类镇静催眠药",
+    "aliases": [
+      "奥沙西泮片",
+      "Oxazepam"
+    ],
+    "subcategory": "苯二氮䓬类镇静催眠药",
+    "sortOrder": 2,
+    "mechanism": "GABAA 受体苯二氮䓬位点正向变构调节剂"
+  },
+  {
+    "id": "164",
+    "name": "普瑞巴林",
+    "smiles": "CC(C)C[C@@H](CC(=O)O)CN",
+    "structure": "assets/structures/164.svg",
+    "chapter": "镇静催眠药与抗癫痫药",
+    "category": "镇静催眠药与抗癫痫药 · GABA 类似物及前药类抗癫痫药",
+    "aliases": [
+      "普瑞巴林胶囊",
+      "Pregabalin",
+      "Lyrica"
+    ],
+    "subcategory": "GABA 类似物及前药类抗癫痫药",
+    "sortOrder": 12,
+    "mechanism": "中枢电压门控钙通道 α2δ 亚基配体（减少兴奋性递质释放）"
+  },
+  {
+    "id": "165",
+    "name": "奋乃静",
+    "smiles": "C1CN(CCN1CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl)CCO",
+    "structure": "assets/structures/165.svg",
+    "chapter": "抗精神病药",
+    "category": "抗精神病药 · 吩噻嗪类抗精神病药",
+    "aliases": [
+      "奋乃静片",
+      "Perphenazine"
+    ],
+    "subcategory": "吩噻嗪类抗精神病药",
+    "sortOrder": 15,
+    "mechanism": "中枢多巴胺 D2 受体拮抗剂"
+  },
+  {
+    "id": "166",
+    "name": "氯普噻吨",
+    "smiles": "CN(C)CC/C=C\\1/C2=CC=CC=C2SC3=C1C=C(C=C3)Cl",
+    "structure": "assets/structures/166.svg",
+    "chapter": "抗精神病药",
+    "category": "抗精神病药 · 硫杂蒽类抗精神病药",
+    "aliases": [
+      "氯普噻吨片",
+      "Chlorprothixene"
+    ],
+    "subcategory": "硫杂蒽类抗精神病药",
+    "sortOrder": 16,
+    "mechanism": "中枢多巴胺 D2 受体拮抗剂"
+  },
+  {
+    "id": "167",
+    "name": "舒必利",
+    "smiles": "CCN1CCCC1CNC(=O)C2=C(C=CC(=C2)S(=O)(=O)N)OC",
+    "structure": "assets/structures/167.svg",
+    "chapter": "抗精神病药",
+    "category": "抗精神病药 · 苯甲酰胺类抗精神病药",
+    "aliases": [
+      "舒必利片",
+      "Sulpiride"
+    ],
+    "subcategory": "苯甲酰胺类抗精神病药",
+    "sortOrder": 18,
+    "mechanism": "选择性中枢多巴胺 D2 / D3 受体拮抗剂"
+  },
+  {
+    "id": "168",
+    "name": "美沙酮",
+    "smiles": "CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2",
+    "structure": "assets/structures/168.svg",
+    "chapter": "镇痛药",
+    "category": "镇痛药 · 氨基酮类合成镇痛药",
+    "aliases": [
+      "美沙酮片",
+      "Methadone"
+    ],
+    "subcategory": "氨基酮类合成镇痛药",
+    "sortOrder": 30,
+    "mechanism": "中枢 μ 阿片受体激动剂（兼非竞争性拮抗 NMDA 受体）"
+  },
+  {
+    "id": "169",
+    "name": "喷他佐辛",
+    "smiles": "C[C@H]1[C@H]2CC3=C([C@@]1(CCN2CC=C(C)C)C)C=C(C=C3)O",
+    "structure": "assets/structures/169.svg",
+    "chapter": "镇痛药",
+    "category": "镇痛药 · 苯吗喃类合成镇痛药",
+    "aliases": [
+      "喷他佐辛片",
+      "Pentazocine"
+    ],
+    "subcategory": "苯吗喃类合成镇痛药",
+    "sortOrder": 31,
+    "mechanism": "κ 阿片受体激动剂兼 μ 阿片受体弱拮抗/部分激动剂"
+  },
+  {
+    "id": "170",
+    "name": "曲马多",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "structure": "assets/structures/170.svg",
+    "chapter": "镇痛药",
+    "category": "镇痛药 · 环己醇类合成镇痛药",
+    "aliases": [
+      "曲马多片",
+      "Tramadol"
+    ],
+    "subcategory": "环己醇类合成镇痛药",
+    "sortOrder": 32,
+    "mechanism": "弱激动 μ 阿片受体并抑制去甲肾上腺素与 5-HT 再摄取"
+  },
+  {
+    "id": "171",
+    "name": "可待因",
+    "smiles": "CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3[C@H](C=C4)O",
+    "structure": "assets/structures/171.svg",
+    "chapter": "镇痛药",
+    "category": "镇痛药 · 吗啡生物碱及半合成镇痛药",
+    "aliases": [
+      "可待因磷酸盐",
+      "Codeine"
+    ],
+    "subcategory": "吗啡生物碱及半合成镇痛药",
+    "sortOrder": 27,
+    "mechanism": "中枢 μ 阿片受体弱激动剂（体内部分脱甲基转化为吗啡）"
+  },
+  {
+    "id": "172",
+    "name": "苯海索",
+    "smiles": "C1CCC(CC1)C(CCN2CCCCC2)(C3=CC=CC=C3)O",
+    "structure": "assets/structures/172.svg",
+    "chapter": "神经退行性疾病、麻醉与中枢兴奋药",
+    "category": "神经退行性疾病、麻醉与中枢兴奋药 · 中枢抗胆碱类抗帕金森病药",
+    "aliases": [
+      "盐酸苯海索",
+      "Trihexyphenidyl"
+    ],
+    "subcategory": "中枢抗胆碱类抗帕金森病药",
+    "sortOrder": 36,
+    "mechanism": "竞争性阻断黑质-纹状体通路中枢 M 胆碱受体"
+  },
+  {
+    "id": "173",
+    "name": "美金刚",
+    "smiles": "CC12CC3CC(C1)(CC(C3)(C2)N)C",
+    "structure": "assets/structures/173.svg",
+    "chapter": "神经退行性疾病、麻醉与中枢兴奋药",
+    "category": "神经退行性疾病、麻醉与中枢兴奋药 · NMDA 受体拮抗类抗痴呆药",
+    "aliases": [
+      "盐酸美金刚",
+      "Memantine"
+    ],
+    "subcategory": "NMDA 受体拮抗类抗痴呆药",
+    "sortOrder": 39,
+    "mechanism": "低中亲和力非竞争性 NMDA 谷氨酸受体通道阻滞剂"
+  },
+  {
+    "id": "174",
+    "name": "卡巴拉汀",
+    "smiles": "CCN(C)C(=O)OC1=CC=CC(=C1)[C@H](C)N(C)C",
+    "structure": "assets/structures/174.svg",
+    "chapter": "神经退行性疾病、麻醉与中枢兴奋药",
+    "category": "神经退行性疾病、麻醉与中枢兴奋药 · 胆碱酯酶抑制剂类抗痴呆药",
+    "aliases": [
+      "利斯的明",
+      "Rivastigmine",
+      "Exelon"
+    ],
+    "subcategory": "胆碱酯酶抑制剂类抗痴呆药",
+    "sortOrder": 38,
+    "mechanism": "氨基甲酸酯类中枢乙酰胆碱酯酶与丁酰胆碱酯酶双重抑制剂"
+  },
+  {
+    "id": "175",
+    "name": "普拉克索",
+    "smiles": "CCCN[C@H]1CCC2=C(C1)SC(=N2)N",
+    "structure": "assets/structures/175.svg",
+    "chapter": "神经退行性疾病、麻醉与中枢兴奋药",
+    "category": "神经退行性疾病、麻醉与中枢兴奋药 · 拟多巴胺类抗帕金森病药",
+    "aliases": [
+      "普拉克索片",
+      "Pramipexole",
+      "Mirapex"
+    ],
+    "subcategory": "拟多巴胺类抗帕金森病药",
+    "sortOrder": 35,
+    "mechanism": "非麦角类选择性多巴胺 D2 / D3 受体激动剂"
+  },
+  {
+    "id": "176",
+    "name": "去甲肾上腺素",
+    "smiles": "C1=CC(=C(C=C1[C@H](CN)O)O)O",
+    "structure": "assets/structures/176.svg",
+    "chapter": "拟胆碱、抗胆碱与拟肾上腺素药",
+    "category": "拟胆碱、抗胆碱与拟肾上腺素药 · α 与 β 肾上腺素受体激动剂",
+    "aliases": [
+      "正肾上腺素",
+      "Noradrenaline",
+      "Norepinephrine"
+    ],
+    "subcategory": "α 与 β 肾上腺素受体激动剂",
+    "sortOrder": 52,
+    "mechanism": "强效激动血管 α 肾上腺素受体及心脏 β1 受体"
+  },
+  {
+    "id": "177",
+    "name": "多巴酚丁胺",
+    "smiles": "CC(CCC1=CC=C(C=C1)O)NCCC2=CC(=C(C=C2)O)O",
+    "structure": "assets/structures/177.svg",
+    "chapter": "拟胆碱、抗胆碱与拟肾上腺素药",
+    "category": "拟胆碱、抗胆碱与拟肾上腺素药 · β1 及非选择性 β 受体激动剂",
+    "aliases": [
+      "盐酸多巴酚丁胺",
+      "Dobutamine"
+    ],
+    "subcategory": "β1 及非选择性 β 受体激动剂",
+    "sortOrder": 55,
+    "mechanism": "选择性激动心肌 β1 肾上腺素受体增强心肌收缩力"
+  },
+  {
+    "id": "178",
+    "name": "可乐定",
+    "smiles": "C1CN=C(N1)NC2=C(C=CC=C2Cl)Cl",
+    "structure": "assets/structures/178.svg",
+    "chapter": "抗高血压药",
+    "category": "抗高血压药 · 中枢性降压药",
+    "aliases": [
+      "盐酸可乐定",
+      "Clonidine"
+    ],
+    "subcategory": "中枢性降压药",
+    "sortOrder": 76,
+    "mechanism": "激动延髓中枢 α2 肾上腺素受体与咪唑啉 I1 受体抑制交感传出"
+  },
+  {
+    "id": "179",
+    "name": "哌唑嗪",
+    "smiles": "COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4=CC=CO4)N)OC",
+    "structure": "assets/structures/179.svg",
+    "chapter": "抗高血压药",
+    "category": "抗高血压药 · 选择性 α1 受体阻滞剂",
+    "aliases": [
+      "盐酸哌唑嗪",
+      "Prazosin"
+    ],
+    "subcategory": "选择性 α1 受体阻滞剂",
+    "sortOrder": 75,
+    "mechanism": "选择性阻断血管平滑肌突触后膜 α1 肾上腺素受体"
+  },
+  {
+    "id": "180",
+    "name": "赛庚啶",
+    "smiles": "CN1CCC(=C2C3=CC=CC=C3C=CC4=CC=CC=C42)CC1",
+    "structure": "assets/structures/180.svg",
+    "chapter": "抗过敏药",
+    "category": "抗过敏药 · 第一代 H1 受体拮抗剂",
+    "aliases": [
+      "盐酸赛庚啶",
+      "Cyproheptadine"
+    ],
+    "subcategory": "第一代 H1 受体拮抗剂",
+    "sortOrder": 60,
+    "mechanism": "拮抗组胺 H1 受体兼强效拮抗 5-HT2 受体（三环哌啶类）"
+  },
+  {
+    "id": "181",
+    "name": "非索非那定",
+    "smiles": "CC(C)(C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O)C(=O)O",
+    "structure": "assets/structures/181.svg",
+    "chapter": "抗过敏药",
+    "category": "抗过敏药 · 第二代 H1 受体拮抗剂",
+    "aliases": [
+      "盐酸非索非那定",
+      "Fexofenadine",
+      "Allegra"
+    ],
+    "subcategory": "第二代 H1 受体拮抗剂",
+    "sortOrder": 63,
+    "mechanism": "高选择性外周组胺 H1 受体拮抗剂（无心脏 hERG 通道阻滞毒性）"
+  },
+  {
+    "id": "182",
+    "name": "特布他林",
+    "smiles": "CC(C)(C)NCC(C1=CC(=CC(=C1)O)O)O",
+    "structure": "assets/structures/182.svg",
+    "chapter": "拟胆碱、抗胆碱与拟肾上腺素药",
+    "category": "拟胆碱、抗胆碱与拟肾上腺素药 · 选择性 β2 受体激动剂",
+    "aliases": [
+      "硫酸特布他林",
+      "Terbutaline"
+    ],
+    "subcategory": "选择性 β2 受体激动剂",
+    "sortOrder": 57,
+    "mechanism": "选择性激动支气管平滑肌 β2 肾上腺素受体平喘"
+  },
+  {
+    "id": "183",
+    "name": "甲基多巴",
+    "smiles": "C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)N",
+    "structure": "assets/structures/183.svg",
+    "chapter": "抗高血压药",
+    "category": "抗高血压药 · 中枢性降压药",
+    "aliases": [
+      "甲基多巴片",
+      "Methyldopa"
+    ],
+    "subcategory": "中枢性降压药",
+    "sortOrder": 77,
+    "mechanism": "脑内转化为 α-甲基去甲肾上腺素激动中枢 α2 受体降压"
+  },
+  {
+    "id": "184",
+    "name": "普罗帕酮",
+    "smiles": "CCCNCC(COC1=CC=CC=C1C(=O)CCC2=CC=CC=C2)O",
+    "structure": "assets/structures/184.svg",
+    "chapter": "抗心律失常与抗心绞痛药",
+    "category": "抗心律失常与抗心绞痛药 · 钠通道阻滞类抗心律失常药（Ⅰ类）",
+    "aliases": [
+      "盐酸普罗帕酮",
+      "Propafenone"
+    ],
+    "subcategory": "钠通道阻滞类抗心律失常药（Ⅰ类）",
+    "sortOrder": 84,
+    "mechanism": "Ⅰc 类：强效阻滞心肌快钠通道显著减慢传导（兼轻度 β 阻滞）"
+  },
+  {
+    "id": "185",
+    "name": "硝酸异山梨酯",
+    "smiles": "C1[C@H]([C@@H]2[C@H](O1)[C@H](CO2)O[N+](=O)[O-])O[N+](=O)[O-]",
+    "structure": "assets/structures/185.svg",
+    "chapter": "抗心律失常与抗心绞痛药",
+    "category": "抗心律失常与抗心绞痛药 · 硝酸酯类抗心绞痛药",
+    "aliases": [
+      "Isosorbide dinitrate",
+      "消心痛"
+    ],
+    "subcategory": "硝酸酯类抗心绞痛药",
+    "sortOrder": 87,
+    "mechanism": "代谢释放一氧化氮（NO）舒张冠脉及外周容量血管降低心肌耗氧"
+  },
+  {
+    "id": "186",
+    "name": "洛伐他汀",
+    "smiles": "CC[C@H](C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C",
+    "structure": "assets/structures/186.svg",
+    "chapter": "调血脂药",
+    "category": "调血脂药 · 他汀类调血脂药",
+    "aliases": [
+      "Lovastatin",
+      "Mevacor"
+    ],
+    "subcategory": "他汀类调血脂药",
+    "sortOrder": 88,
+    "mechanism": "体内水解开环竞争性抑制羟甲戊二酰辅酶 A（HMG-CoA）还原酶"
+  },
+  {
+    "id": "187",
+    "name": "氟伐他汀",
+    "smiles": "CC(C)N1C2=CC=CC=C2C(=C1/C=C/[C@@H](C[C@@H](CC(=O)O)O)O)C3=CC=C(C=C3)F",
+    "structure": "assets/structures/187.svg",
+    "chapter": "调血脂药",
+    "category": "调血脂药 · 他汀类调血脂药",
+    "aliases": [
+      "氟伐他汀钠",
+      "Fluvastatin",
+      "Lescol"
+    ],
+    "subcategory": "他汀类调血脂药",
+    "sortOrder": 90,
+    "mechanism": "竞争性抑制肝脏 HMG-CoA 还原酶上调低密度脂蛋白受体"
+  },
+  {
+    "id": "188",
+    "name": "吉非贝齐",
+    "smiles": "CC1=CC(=C(C=C1)C)OCCCC(C)(C)C(=O)O",
+    "structure": "assets/structures/188.svg",
+    "chapter": "调血脂药",
+    "category": "调血脂药 · 贝特类（苯氧酸类）调血脂药",
+    "aliases": [
+      "Gemfibrozil",
+      "Lopid"
+    ],
+    "subcategory": "贝特类（苯氧酸类）调血脂药",
+    "sortOrder": 93,
+    "mechanism": "激动过氧化物酶体增殖物激活受体 α（PPARα）促进甘油三酯分解"
+  },
+  {
+    "id": "189",
+    "name": "厄贝沙坦",
+    "smiles": "CCCCC1=NC2(CCCC2)C(=O)N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5",
+    "structure": "assets/structures/189.svg",
+    "chapter": "抗高血压药",
+    "category": "抗高血压药 · 血管紧张素 Ⅱ 受体拮抗剂",
+    "aliases": [
+      "Irbesartan",
+      "Aprovel"
+    ],
+    "subcategory": "血管紧张素 Ⅱ 受体拮抗剂",
+    "sortOrder": 72,
+    "mechanism": "高亲和力选择性拮抗血管紧张素 Ⅱ AT1 受体"
+  },
+  {
+    "id": "190",
+    "name": "尼群地平",
+    "smiles": "CCOC(=O)C1=C(NC(=C(C1C2=CC(=CC=C2)[N+](=O)[O-])C(=O)OC)C)C",
+    "structure": "assets/structures/190.svg",
+    "chapter": "抗高血压药",
+    "category": "抗高血压药 · 二氢吡啶类钙通道阻滞剂",
+    "aliases": [
+      "Nitrendipine"
+    ],
+    "subcategory": "二氢吡啶类钙通道阻滞剂",
+    "sortOrder": 65,
+    "mechanism": "选择性阻滞血管平滑肌 L 型电压门控钙通道"
+  },
+  {
+    "id": "191",
+    "name": "奎尼丁",
+    "smiles": "COC1=CC2=C(C=CN=C2C=C1)[C@@H]([C@H]3C[C@@H]4CCN3C[C@@H]4C=C)O",
+    "structure": "assets/structures/191.svg",
+    "chapter": "抗心律失常与抗心绞痛药",
+    "category": "抗心律失常与抗心绞痛药 · 钠通道阻滞类抗心律失常药（Ⅰ类）",
+    "aliases": [
+      "硫酸奎尼丁",
+      "Quinidine"
+    ],
+    "subcategory": "钠通道阻滞类抗心律失常药（Ⅰ类）",
+    "sortOrder": 83,
+    "mechanism": "Ⅰa 类：适度阻滞心肌快钠通道并阻滞钾通道延长有效不应期"
+  },
+  {
+    "id": "192",
+    "name": "伊托必利",
+    "smiles": "CN(C)CCOC1=CC=C(C=C1)CNC(=O)C2=CC(=C(C=C2)OC)OC",
+    "structure": "assets/structures/192.svg",
+    "chapter": "消化系统药物",
+    "category": "消化系统药物 · 促胃肠动力药",
+    "aliases": [
+      "盐酸伊托必利",
+      "Itopride"
+    ],
+    "subcategory": "促胃肠动力药",
+    "sortOrder": 106,
+    "mechanism": "阻断多巴胺 D2 受体兼抑制乙酰胆碱酯酶双重增强胃肠动力"
+  },
+  {
+    "id": "193",
+    "name": "莫沙必利",
+    "smiles": "CCOC1=CC(=C(C=C1C(=O)NCC2CN(CCO2)CC3=CC=C(C=C3)F)Cl)N",
+    "structure": "assets/structures/193.svg",
+    "chapter": "消化系统药物",
+    "category": "消化系统药物 · 促胃肠动力药",
+    "aliases": [
+      "Mosapride"
+    ],
+    "subcategory": "促胃肠动力药",
+    "sortOrder": 108,
+    "mechanism": "高选择性激动消化道 5-HT4 受体促进乙酰胆碱释放增强蠕动"
+  },
+  {
+    "id": "194",
+    "name": "艾瑞昔布",
+    "smiles": "CCCN1CC(=C(C1=O)C2=CC=C(C=C2)C)C3=CC=C(C=C3)S(=O)(=O)C",
+    "structure": "assets/structures/194.svg",
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 选择性 COX-2 抑制剂（昔布类）",
+    "aliases": [
+      "Imrecoxib"
+    ],
+    "subcategory": "选择性 COX-2 抑制剂（昔布类）",
+    "sortOrder": 124,
+    "mechanism": "选择性抑制诱导型环氧合酶-2（COX-2）减少炎症介质前列腺素合成"
+  },
+  {
+    "id": "195",
+    "name": "非布司他",
+    "smiles": "CC1=C(SC(=N1)C2=CC(=C(C=C2)OCC(C)C)C#N)C(=O)O",
+    "structure": "assets/structures/195.svg",
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 抑制尿酸生成类抗痛风药",
+    "aliases": [
+      "Febuxostat",
+      "Uloric"
+    ],
+    "subcategory": "抑制尿酸生成类抗痛风药",
+    "sortOrder": 126,
+    "mechanism": "非嘌呤类高选择性黄嘌呤氧化酶（XO）抑制剂减少尿酸合成"
+  },
+  {
+    "id": "196",
+    "name": "萘丁美酮",
+    "smiles": "CC(=O)CCC1=CC2=C(C=C1)C=C(C=C2)OC",
+    "structure": "assets/structures/196.svg",
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 芳基乙酸与吲哚乙酸类非甾体抗炎药",
+    "aliases": [
+      "Nabumetone",
+      "Relafen"
+    ],
+    "subcategory": "芳基乙酸与吲哚乙酸类非甾体抗炎药",
+    "sortOrder": 118,
+    "mechanism": "非酸性前药经肝脏氧化为 6-甲氧基-2-萘乙酸偏向抑制 COX-2"
+  },
+  {
+    "id": "197",
+    "name": "氮芥",
+    "smiles": "CN(CCCl)CCCl",
+    "structure": "assets/structures/197.svg",
+    "chapter": "抗肿瘤药",
+    "category": "抗肿瘤药 · 氮芥类烷化剂",
+    "aliases": [
+      "盐酸氮芥",
+      "Mechlorethamine",
+      "Mustargen"
+    ],
+    "subcategory": "氮芥类烷化剂",
+    "sortOrder": 129,
+    "mechanism": "双功能 DNA 烷化剂（形成氮丙啶季铵正离子与 DNA 鸟嘌呤 N7 交联）"
+  },
+  {
+    "id": "198",
+    "name": "异环磷酰胺",
+    "smiles": "C1CN(P(=O)(OC1)NCCCl)CCCl",
+    "structure": "assets/structures/198.svg",
+    "chapter": "抗肿瘤药",
+    "category": "抗肿瘤药 · 氮芥类烷化剂",
+    "aliases": [
+      "Ifosfamide",
+      "异环磷酰胺注射剂"
+    ],
+    "subcategory": "氮芥类烷化剂",
+    "sortOrder": 131,
+    "mechanism": "前药经肝脏代谢活化生成异磷酰胺氮芥与 DNA 发生烷化交联"
+  },
+  {
+    "id": "199",
+    "name": "卡莫司汀",
+    "smiles": "C(CCl)NC(=O)N(CCCl)N=O",
+    "structure": "assets/structures/199.svg",
+    "chapter": "抗肿瘤药",
+    "category": "抗肿瘤药 · 亚硝基脲类烷化剂",
+    "aliases": [
+      "Carmustine",
+      "BCNU"
+    ],
+    "subcategory": "亚硝基脲类烷化剂",
+    "sortOrder": 133,
+    "mechanism": "分解产生氯乙基碳正离子与异氰酸酯使 DNA 链间交联并氨甲酰化蛋白"
+  },
+  {
+    "id": "200",
+    "name": "巯嘌呤",
+    "smiles": "C1=NC2=C(N1)C(=S)N=CN2",
+    "structure": "assets/structures/200.svg",
+    "chapter": "抗肿瘤药",
+    "category": "抗肿瘤药 · 嘌呤类抗代谢药",
+    "aliases": [
+      "6-巯基嘌呤",
+      "Mercaptopurine",
+      "6-MP"
+    ],
+    "subcategory": "嘌呤类抗代谢药",
+    "sortOrder": 139,
+    "mechanism": "体内转化为硫代肌苷酸抑制嘌呤核苷酸从头合成与相互转化"
+  },
+  {
+    "id": "201",
+    "name": "吉非替尼",
+    "smiles": "COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4",
+    "structure": "assets/structures/201.svg",
+    "chapter": "抗肿瘤药",
+    "category": "抗肿瘤药 · 酪氨酸激酶抑制剂",
+    "aliases": [
+      "Gefitinib",
+      "Iressa"
+    ],
+    "subcategory": "酪氨酸激酶抑制剂",
+    "sortOrder": 145,
+    "mechanism": "可逆性竞争结合表皮生长因子受体（EGFR）胞内酪氨酸激酶催化域"
+  },
+  {
+    "id": "202",
+    "name": "米托蒽醌",
+    "smiles": "C1=CC(=C2C(=C1NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O)NCCNCCO",
+    "structure": "assets/structures/202.svg",
+    "chapter": "抗肿瘤药",
+    "category": "抗肿瘤药 · 蒽环及蒽醌类抗肿瘤药",
+    "aliases": [
+      "盐酸米托蒽醌",
+      "Mitoxantrone"
+    ],
+    "subcategory": "蒽环及蒽醌类抗肿瘤药",
+    "sortOrder": 142,
+    "mechanism": "嵌入 DNA 双螺旋并抑制 DNA 拓扑异构酶 Ⅱ 引起 DNA 链断裂"
+  },
+  {
+    "id": "203",
+    "name": "多柔比星",
+    "smiles": "C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O",
+    "structure": "assets/structures/203.svg",
+    "chapter": "抗肿瘤药",
+    "category": "抗肿瘤药 · 蒽环及蒽醌类抗肿瘤药",
+    "aliases": [
+      "盐酸多柔比星",
+      "Doxorubicin",
+      "Adriamycin"
+    ],
+    "subcategory": "蒽环及蒽醌类抗肿瘤药",
+    "sortOrder": 141,
+    "mechanism": "嵌入 DNA 碱基对并抑制 DNA 拓扑异构酶 Ⅱ（兼产自由基损伤膜与 DNA）"
+  },
+  {
+    "id": "204",
+    "name": "头孢他啶",
+    "smiles": "CC(C)(C(=O)O)O/N=C(/C1=CSC(=N1)N)\\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-]",
+    "structure": "assets/structures/204.svg",
+    "chapter": "抗生素",
+    "category": "抗生素 · 头孢菌素类抗生素",
+    "aliases": [
+      "Ceftazidime",
+      "头孢他啶五水合物"
+    ],
+    "subcategory": "头孢菌素类抗生素",
+    "sortOrder": 157,
+    "mechanism": "结合细菌 PBPs 抑制细胞壁合成（强效抗铜绿假单胞菌第三代头孢菌素）"
+  },
+  {
+    "id": "205",
+    "name": "阿奇霉素",
+    "smiles": "CC[C@@H]1[C@@]([C@@H]([C@H](N(C[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O",
+    "structure": "assets/structures/205.svg",
+    "chapter": "抗生素",
+    "category": "抗生素 · 大环内酯类抗生素",
+    "aliases": [
+      "Azithromycin",
+      "Zithromax"
+    ],
+    "subcategory": "大环内酯类抗生素",
+    "sortOrder": 167,
+    "mechanism": "结合细菌核糖体 50S 亚基抑制蛋白质合成（15 元氮杂内酯环广谱长效）"
+  },
+  {
+    "id": "206",
+    "name": "克拉霉素",
+    "smiles": "CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)OC)C)C)O)(C)O",
+    "structure": "assets/structures/206.svg",
+    "chapter": "抗生素",
+    "category": "抗生素 · 大环内酯类抗生素",
+    "aliases": [
+      "Clarithromycin",
+      "Biaxin"
+    ],
+    "subcategory": "大环内酯类抗生素",
+    "sortOrder": 166,
+    "mechanism": "结合细菌核糖体 50S 亚基抑制蛋白质合成（6-甲氧基阻止分子内缩酮失活）"
+  },
+  {
+    "id": "207",
+    "name": "利奈唑胺",
+    "smiles": "CC(=O)NC[C@H]1CN(C(=O)O1)C2=CC(=C(C=C2)N3CCOCC3)F",
+    "structure": "assets/structures/207.svg",
+    "chapter": "合成抗菌药",
+    "category": "合成抗菌药 · 噁唑烷酮类抗菌药",
+    "aliases": [
+      "Linezolid",
+      "Zyvox"
+    ],
+    "subcategory": "噁唑烷酮类抗菌药",
+    "sortOrder": 181,
+    "mechanism": "结合细菌核糖体 50S 亚基 23S rRNA 阻止 70S 翻译起始复合物形成"
+  },
+  {
+    "id": "208",
+    "name": "拉米夫定",
+    "smiles": "C1[C@H](O[C@H](S1)CO)N2C=CC(=NC2=O)N",
+    "structure": "assets/structures/208.svg",
+    "chapter": "抗病毒药",
+    "category": "抗病毒药 · 核苷及核苷酸类逆转录酶/聚合酶抑制剂",
+    "aliases": [
+      "Lamivudine",
+      "3TC"
+    ],
+    "subcategory": "核苷及核苷酸类逆转录酶/聚合酶抑制剂",
+    "sortOrder": 195,
+    "mechanism": "三磷酸化后竞争性抑制 HIV 逆转录酶及乙肝病毒（HBV）DNA 聚合酶"
+  },
+  {
+    "id": "209",
+    "name": "索磷布韦",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "structure": "assets/structures/209.svg",
+    "chapter": "抗病毒药",
+    "category": "抗病毒药 · 核苷及核苷酸类逆转录酶/聚合酶抑制剂",
+    "aliases": [
+      "Sofosbuvir",
+      "Sovaldi",
+      "PSI-7977"
+    ],
+    "subcategory": "核苷及核苷酸类逆转录酶/聚合酶抑制剂",
+    "sortOrder": 196,
+    "mechanism": "核苷酸前药在肝细胞活化后抑制丙肝病毒（HCV）NS5B RNA 聚合酶终止复制"
+  },
+  {
+    "id": "210",
+    "name": "格列美脲",
+    "smiles": "CCC1=C(CN(C1=O)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCC(CC3)C)C",
+    "structure": "assets/structures/210.svg",
+    "chapter": "降血糖药",
+    "category": "降血糖药 · 磺酰脲类促胰岛素分泌药",
+    "aliases": [
+      "Glimepiride",
+      "Amaryl"
+    ],
+    "subcategory": "磺酰脲类促胰岛素分泌药",
+    "sortOrder": 210,
+    "mechanism": "结合胰岛 β 细胞 KATP 通道促胰岛素分泌并增强外周组织葡萄糖摄取"
+  },
+  {
+    "id": "211",
+    "name": "普罗加比",
+    "smiles": "C1=CC(=CC=C1C(=NCCCC(=O)N)C2=C(C=CC(=C2)F)O)Cl",
+    "structure": "assets/structures/211.svg",
+    "category": "镇静催眠药与抗癫痫药 · GABA 类似物及前药类抗癫痫药",
+    "aliases": [
+      "卤加比",
+      "progabide"
+    ],
+    "chapter": "镇静催眠药与抗癫痫药",
+    "subcategory": "GABA 类似物及前药类抗癫痫药",
+    "mechanism": "GABAA 与 GABAB 受体激动剂（透过血脑屏障释放 GABA 的前药）",
+    "sortOrder": 13
+  },
+  {
+    "id": "212",
+    "name": "奥氮平",
+    "smiles": "CC1=CC2=C(S1)NC3=CC=CC=C3N=C2N4CCN(CC4)C",
+    "structure": "assets/structures/212.svg",
+    "category": "抗精神病药 · 噻吩并苯二氮䓬类抗精神病药",
+    "aliases": [
+      "再普乐",
+      "olanzapine"
+    ],
+    "chapter": "抗精神病药",
+    "subcategory": "噻吩并苯二氮䓬类抗精神病药",
+    "mechanism": "5-HT2A 与多巴胺 D2 受体多靶点拮抗剂（非典型抗精神病药）",
+    "sortOrder": 20
+  },
+  {
+    "id": "213",
+    "name": "丙米嗪",
+    "smiles": "CN(C)CCCN1C2=CC=CC=C2CCC3=CC=CC=C31",
+    "structure": "assets/structures/213.svg",
+    "category": "抗抑郁药 · 三环类抗抑郁药（二苯并氮䓬类）",
+    "aliases": [
+      "丙咪嗪",
+      "盐酸丙米嗪",
+      "imipramine"
+    ],
+    "chapter": "抗抑郁药",
+    "subcategory": "三环类抗抑郁药（二苯并氮䓬类）",
+    "mechanism": "突触前膜去甲肾上腺素（NE）与 5-HT 再摄取抑制剂",
+    "sortOrder": 22
+  },
+  {
+    "id": "214",
+    "name": "吡拉西坦",
+    "smiles": "C1CC(=O)N(C1)CC(=O)N",
+    "structure": "assets/structures/214.svg",
+    "category": "神经退行性疾病、麻醉与中枢兴奋药 · γ-内酰胺类促智药",
+    "aliases": [
+      "脑复康",
+      "乙酰吡咯烷酮",
+      "piracetam"
+    ],
+    "chapter": "神经退行性疾病、麻醉与中枢兴奋药",
+    "subcategory": "γ-内酰胺类促智药",
+    "mechanism": "AMPA 受体正向调节及促进脑内 ATP 合成改善脑代谢",
+    "sortOrder": 45
+  },
+  {
+    "id": "215",
+    "name": "氯贝胆碱",
+    "smiles": "CC(C[N+](C)(C)C)OC(=O)N",
+    "structure": "assets/structures/215.svg",
+    "category": "拟胆碱、抗胆碱与拟肾上腺素药 · M 胆碱受体激动剂",
+    "aliases": [
+      "氯化氨甲酰甲胆碱",
+      "氨甲酰甲胆碱",
+      "bethanechol",
+      "bethanechol chloride"
+    ],
+    "chapter": "拟胆碱、抗胆碱与拟肾上腺素药",
+    "subcategory": "M 胆碱受体激动剂",
+    "mechanism": "选择性激动胃肠与膀胱平滑肌 M 胆碱受体（耐胆碱酯酶水解）",
+    "sortOrder": 46
+  },
+  {
+    "id": "216",
+    "name": "利血平",
+    "smiles": "CO[C@H]1[C@@H](C[C@@H]2CN3CCC4=C([C@H]3C[C@@H]2[C@@H]1C(=O)OC)NC5=C4C=CC(=C5)OC)OC(=O)C6=CC(=C(C(=C6)OC)OC)OC",
+    "structure": "assets/structures/216.svg",
+    "category": "抗高血压药 · 交感神经末梢阻滞类降压药",
+    "aliases": [
+      "利舍平",
+      "reserpine"
+    ],
+    "chapter": "抗高血压药",
+    "subcategory": "交感神经末梢阻滞类降压药",
+    "mechanism": "不可逆抑制囊泡单胺转运体（VMAT）耗竭交感末梢去甲肾上腺素",
+    "sortOrder": 78
+  },
+  {
+    "id": "217",
+    "name": "乙酰唑胺",
+    "smiles": "CC(=O)NC1=NN=C(S1)S(=O)(=O)N",
+    "structure": "assets/structures/217.svg",
+    "category": "利尿药 · 碳酸酐酶抑制剂类利尿药",
+    "aliases": [
+      "醋氮酰胺",
+      "acetazolamide"
+    ],
+    "chapter": "利尿药",
+    "subcategory": "碳酸酐酶抑制剂类利尿药",
+    "mechanism": "抑制肾近曲小管及睫状体碳酸酐酶（CA）减少 H+-Na+ 交换",
+    "sortOrder": 79
+  },
+  {
+    "id": "218",
+    "name": "氯贝丁酯",
+    "smiles": "CCOC(=O)C(C)(C)OC1=CC=C(C=C1)Cl",
+    "structure": "assets/structures/218.svg",
+    "category": "调血脂药 · 贝特类（苯氧酸类）调血脂药",
+    "aliases": [
+      "安妥明",
+      "氯苯丁酯",
+      "clofibrate"
+    ],
+    "chapter": "调血脂药",
+    "subcategory": "贝特类（苯氧酸类）调血脂药",
+    "mechanism": "水解为氯贝丁酸激动核受体 PPARα 增强脂蛋白脂酶活性降甘油三酯",
+    "sortOrder": 92
+  },
+  {
+    "id": "219",
+    "name": "米索前列醇",
+    "smiles": "CCCCC(C)(C/C=C/[C@H]1[C@@H](CC(=O)[C@@H]1CCCCCCC(=O)OC)O)O",
+    "structure": "assets/structures/219.svg",
+    "category": "消化系统药物 · 前列腺素类抗溃疡药",
+    "aliases": [
+      "喜克溃",
+      "misoprostol"
+    ],
+    "chapter": "消化系统药物",
+    "subcategory": "前列腺素类抗溃疡药",
+    "mechanism": "激动胃黏膜前列腺素 EP3 受体抑酸并促黏液与碳酸氢盐分泌护膜",
+    "sortOrder": 103
+  },
+  {
+    "id": "220",
+    "name": "西沙必利",
+    "smiles": "CO[C@H]1CN(CC[C@H]1NC(=O)C2=CC(=C(C=C2OC)N)Cl)CCCOC3=CC=C(C=C3)F |&1:2,7|",
+    "structure": "assets/structures/220.svg",
+    "category": "消化系统药物 · 促胃肠动力药",
+    "aliases": [
+      "普瑞博思",
+      "cisapride"
+    ],
+    "chapter": "消化系统药物",
+    "subcategory": "促胃肠动力药",
+    "mechanism": "选择性激动肠肌间神经丛 5-HT4 受体促进生理性乙酰胆碱释放",
+    "sortOrder": 107
+  },
+  {
+    "id": "221",
+    "name": "联苯双酯",
+    "smiles": "COC1=C2C(=C(C(=C1)C(=O)OC)C3=C4C(=C(C=C3C(=O)OC)OC)OCO4)OCO2",
+    "structure": "assets/structures/221.svg",
+    "category": "消化系统药物 · 联苯类保肝降酶药",
+    "aliases": [
+      "bifendate"
+    ],
+    "chapter": "消化系统药物",
+    "subcategory": "联苯类保肝降酶药",
+    "mechanism": "稳定肝细胞膜、诱导肝微粒体细胞色素 P450 并降低血清转氨酶",
+    "sortOrder": 110
+  },
+  {
+    "id": "222",
+    "name": "羟布宗",
+    "smiles": "CCCCC1C(=O)N(N(C1=O)C2=CC=C(C=C2)O)C3=CC=CC=C3",
+    "structure": "assets/structures/222.svg",
+    "category": "解热镇痛、非甾体抗炎及抗痛风药 · 3,5-吡唑烷二酮类非甾体抗炎药",
+    "aliases": [
+      "羟基保泰松",
+      "oxyphenbutazone"
+    ],
+    "chapter": "解热镇痛、非甾体抗炎及抗痛风药",
+    "subcategory": "3,5-吡唑烷二酮类非甾体抗炎药",
+    "mechanism": "非选择性抑制环氧合酶（COX）阻断致炎前列腺素合成",
+    "sortOrder": 114
+  },
+  {
+    "id": "223",
+    "name": "顺铂",
+    "smiles": "[NH3]->[Pt@SP3](<-[NH3])([Cl])[Cl]",
+    "structure": "assets/structures/223.svg",
+    "category": "抗肿瘤药 · 铂配合物类抗肿瘤药",
+    "aliases": [
+      "顺氯氨铂",
+      "cisplatin",
+      "CDDP"
+    ],
+    "chapter": "抗肿瘤药",
+    "subcategory": "铂配合物类抗肿瘤药",
+    "mechanism": "胞内水合后与 DNA 相邻鸟嘌呤 N7 配位形成链内及链间铂交联（顺式有效）",
+    "sortOrder": 135
+  },
+  {
+    "id": "224",
+    "name": "羟基喜树碱",
+    "smiles": "CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=C(C3=C2)N=C5C=CC(=CC5=C4)O)O",
+    "structure": "assets/structures/224.svg",
+    "category": "抗肿瘤药 · 喜树碱类抗肿瘤植物药",
+    "aliases": [
+      "10-羟基喜树碱",
+      "hydroxycamptothecin",
+      "10-hydroxycamptothecin"
+    ],
+    "chapter": "抗肿瘤药",
+    "subcategory": "喜树碱类抗肿瘤植物药",
+    "mechanism": "选择性抑制 DNA 拓扑异构酶 Ⅰ 稳定酶-DNA 共价复合物阻断复制叉推进",
+    "sortOrder": 143
+  },
+  {
+    "id": "225",
+    "name": "萘啶酸",
+    "smiles": "CCN1C=C(C(=O)C2=C1N=C(C=C2)C)C(=O)O",
+    "structure": "assets/structures/225.svg",
+    "category": "合成抗菌药 · 喹诺酮类抗菌药（第一、二代）",
+    "aliases": [
+      "nalidixic acid"
+    ],
+    "chapter": "合成抗菌药",
+    "subcategory": "喹诺酮类抗菌药（第一、二代）",
+    "mechanism": "抑制革兰阴性菌 DNA 促旋酶（拓扑异构酶 Ⅱ）阻断 DNA 复制（第一代）",
+    "sortOrder": 170
+  },
+  {
+    "id": "226",
+    "name": "吡哌酸",
+    "smiles": "CCN1C=C(C(=O)C2=CN=C(N=C21)N3CCNCC3)C(=O)O",
+    "structure": "assets/structures/226.svg",
+    "category": "合成抗菌药 · 喹诺酮类抗菌药（第一、二代）",
+    "aliases": [
+      "pipemidic acid"
+    ],
+    "chapter": "合成抗菌药",
+    "subcategory": "喹诺酮类抗菌药（第一、二代）",
+    "mechanism": "抑制细菌 DNA 促旋酶（拓扑异构酶 Ⅱ）阻断 DNA 超螺旋与复制（第二代）",
+    "sortOrder": 171
+  },
+  {
+    "id": "227",
+    "name": "克霉唑",
+    "smiles": "C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3Cl)N4C=CN=C4",
+    "structure": "assets/structures/227.svg",
+    "category": "抗真菌药 · 咪唑类抗真菌药",
+    "aliases": [
+      "三苯甲咪唑",
+      "clotrimazole"
+    ],
+    "chapter": "抗真菌药",
+    "subcategory": "咪唑类抗真菌药",
+    "mechanism": "抑制真菌细胞色素 P450 羊毛甾醇 14α-去甲基化酶（CYP51）阻断麦角甾醇合成",
+    "sortOrder": 186
+  },
+  {
+    "id": "228",
+    "name": "金刚烷胺",
+    "smiles": "C1C2CC3CC1CC(C2)(C3)N",
+    "structure": "assets/structures/228.svg",
+    "category": "抗病毒药 · M2 离子通道阻滞类抗流感药",
+    "aliases": [
+      "盐酸金刚烷胺",
+      "amantadine"
+    ],
+    "chapter": "抗病毒药",
+    "subcategory": "M2 离子通道阻滞类抗流感药",
+    "mechanism": "阻滞甲型流感病毒 M2 质子通道阻止病毒脱壳（兼促纹状体释放多巴胺抗帕金森）",
+    "sortOrder": 197
+  },
+  {
+    "id": "229",
+    "name": "奎宁",
+    "smiles": "COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3C[C@@H]4CCN3C[C@@H]4C=C)O",
+    "structure": "assets/structures/229.svg",
+    "category": "抗寄生虫药 · 喹啉类抗疟药",
+    "aliases": [
+      "金鸡纳霜",
+      "硫酸奎宁",
+      "quinine"
+    ],
+    "chapter": "抗寄生虫药",
+    "subcategory": "喹啉类抗疟药",
+    "mechanism": "结合疟原虫游离血红素抑制血红素聚合酶杀灭红细胞内裂殖体（金鸡纳生物碱）",
+    "sortOrder": 200
+  },
+  {
+    "id": "230",
+    "name": "己烯雌酚",
+    "smiles": "CC/C(=C(/CC)\\C1=CC=C(C=C1)O)/C2=CC=C(C=C2)O",
+    "structure": "assets/structures/230.svg",
+    "category": "甾体激素类药物 · 非甾体合成雌激素（二苯乙烯类）",
+    "aliases": [
+      "乙菧酚",
+      "diethylstilbestrol",
+      "DES"
+    ],
+    "chapter": "甾体激素类药物",
+    "subcategory": "非甾体合成雌激素（二苯乙烯类）",
+    "mechanism": "反式（E）刚性骨架两酚羟基间距拟似雌二醇直接激动雌激素受体（ER）",
+    "sortOrder": 215
+  },
+  {
+    "id": "231",
+    "name": "米非司酮",
+    "smiles": "CC#C[C@@]1(CC[C@@H]2[C@@]1(C[C@@H](C3=C4CCC(=O)C=C4CC[C@@H]23)C5=CC=C(C=C5)N(C)C)C)O",
+    "structure": "assets/structures/231.svg",
+    "category": "甾体激素类药物 · 抗孕激素（抗早孕药）",
+    "aliases": [
+      "RU-486",
+      "mifepristone"
+    ],
+    "chapter": "甾体激素类药物",
+    "subcategory": "抗孕激素（抗早孕药）",
+    "mechanism": "高亲和力竞争性拮抗子宫内膜孕激素受体（PR）及糖皮质激素受体（GR）",
+    "sortOrder": 221
+  },
+  {
+    "id": "232",
+    "name": "丙酸睾酮",
+    "smiles": "CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C",
+    "structure": "assets/structures/232.svg",
+    "category": "甾体激素类药物 · 雄激素及同化激素",
+    "aliases": [
+      "丙酸睾丸素",
+      "testosterone propionate"
+    ],
+    "chapter": "甾体激素类药物",
+    "subcategory": "雄激素及同化激素",
+    "mechanism": "油针肌注后缓慢水解释放睾酮持续激动雄激素受体（AR）",
+    "sortOrder": 217
+  }
+]

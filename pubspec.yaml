@@ -1,0 +1,26 @@
+name: drug_structure_review
+description: 面向药物化学学习的离线药物结构式复习应用。
+publish_to: none
+version: 4.3.0+7
+
+environment:
+  sdk: ^3.14.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  material_ui: ^1.1.0
+  flutter_svg: ^2.5.0
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/drugs.json
+    - assets/structures/
+    - assets/structures/rot90/
+    - assets/structures/rot180/
+    - assets/structures/rot270/
